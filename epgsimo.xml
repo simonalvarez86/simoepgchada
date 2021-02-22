@@ -1,12 +1,12 @@
 <tv guide="http://epgguide.net for more information.">
 <channel id="chadatv.ma">
-<display-name lang="en">Chada tv MA</display-name>
+<display-name lang="en">CHADA TV MAR</display-name>
 <icon src=""/>
 <url>http://www.elcinema.com</url>
 </channel>
 
 <channel id="telemaroc.ma">
-<display-name lang="en">Telemaroc MA</display-name>
+<display-name lang="en">TELEMAROC MAR</display-name>
 <icon src=""/>
 <url>http://www.elcinema.com</url>
 </channel>
