@@ -4,14 +4,6 @@
     <display-name lang="ar">OULAMAROC</display-name>
     <url>http://www.elcinema.ar.com</url>
   </channel>
-  <channel id="ADNATGEO">
-    <display-name lang="ar">ADNATGEO</display-name>
-    <url>http://www.elcinema.ar.com</url>
-  </channel>
-  <channel id="FOX FAMILY MOVIES">
-    <display-name lang="ar">FOX FAMILY MOVIES</display-name>
-    <url>http://www.elcinema.ar.com</url>
-  </channel>
   <channel id="A+INTERNATIONAL">
     <display-name lang="fr">A+INTERNATIONAL</display-name>
     <icon src="https://tv.cdnartwhere.eu/images/logos_chaines/2049.png" />
@@ -22,274 +14,68 @@
     <icon src="https://tv.cdnartwhere.eu/images/logos_chaines/1072.png" />
     <url>http://www.telecablesat.fr</url>
   </channel>
-  <channel id="OLYMPIA FRA">
-    <display-name lang="fr">OLYMPIA FRA</display-name>
-    <icon src="https://tv.cdnartwhere.eu/images/logos_chaines/2958.png" />
-    <url>http://www.telecablesat.fr</url>
-  </channel>
-  <channel id="MY CUISINEFRA">
-    <display-name lang="en">MY CUISINEFRA</display-name>
-    <url>http://www.lefigaro.fr.E</url>
-  </channel>
-  <channel id="TRACELATINAFRA">
-    <display-name lang="fr">TRACELATINAFRA</display-name>
-    <url>http://www.tv.orange.fr.E</url>
-  </channel>
   <channel id="AB3FRA">
     <display-name lang="fr">AB3FRA</display-name>
     <icon src="https://tv.cdnartwhere.eu/images/logos_chaines/254.png" />
     <url>http://www.telecablesat.fr</url>
   </channel>
-  <programme start="20210224033000 +0200" stop="20210224040000 +0200" channel="OULAMAROC">
-    <title lang="ar">وعدي</title>
-    <title lang="ar">مسلسل
-               (2015)</title>
-    <title lang="ar">مفضل
-            ذكرني</title>
-  </programme>
-  <programme start="20210224040000 +0200" stop="20210224050000 +0200" channel="OULAMAROC">
-    <title lang="ar">الحرة</title>
-    <title lang="ar">مسلسل
-               (2016)</title>
-    <title lang="ar">مفضل
-            ذكرني</title>
-  </programme>
-  <programme start="20210224050000 +0200" stop="20210224060000 +0200" channel="OULAMAROC">
-    <title lang="ar">برنامج ﺇﺷﻌﺎﻉ ﻣﻤﻠﻜﺔ</title>
-    <title lang="ar">05:00  صباحًا
-              [60 دقيقة]</title>
-  </programme>
-  <programme start="20210224060000 +0200" stop="20210224070000 +0200" channel="OULAMAROC">
+  <channel id="ADNATGEO">
+    <display-name lang="ar">ADNATGEO</display-name>
+    <url>http://www.elcinema.ar.com</url>
+  </channel>
+  <channel id="FOX FAMILY MOVIES">
+    <display-name lang="ar">FOX FAMILY MOVIES</display-name>
+    <url>http://www.elcinema.ar.com</url>
+  </channel>
+  <channel id="ARRIADIA 3">
+    <display-name lang="nl">ARRIADIA 3</display-name>
+    <url>http://www.canaldigitaal.nl</url>
+  </channel>
+  <channel id="ARRABIA 4">
+    <display-name lang="nl">ARRABIA 4</display-name>
+    <url>http://www.canaldigitaal.nl</url>
+  </channel>
+  <channel id="OLYMPIA FRA">
+    <display-name lang="fr">OLYMPIA FRA</display-name>
+    <icon src="https://tv.cdnartwhere.eu/images/logos_chaines/2958.png" />
+    <url>http://www.telecablesat.fr</url>
+  </channel>
+  <channel id="Canal Extremadura ">
+    <display-name lang="es">Canal Extremadura </display-name>
+    <url>http://www.elmundo.es</url>
+  </channel>
+  <channel id="ETB BASCO">
+    <display-name lang="es">ETB BASCO</display-name>
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="Canal 33">
+    <display-name lang="es">Canal 33</display-name>
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <programme start="20210225060000 +0200" stop="20210225070000 +0200" channel="OULAMAROC">
     <title lang="ar">برنامج ﺃﻣﻮﺩﻭ</title>
     <title lang="ar">06:00  صباحًا
               [60 دقيقة]</title>
   </programme>
-  <programme start="20210224070000 +0200" stop="20210224070500 +0200" channel="OULAMAROC">
+  <programme start="20210225070000 +0200" stop="20210225070500 +0200" channel="OULAMAROC">
     <title lang="ar">افتتاح للإرسال +القرآن الكريم +دعاء</title>
     <title lang="ar">07:00  صباحًا
               [5 دقائق]</title>
   </programme>
-  <programme start="20210224070500 +0200" stop="20210224071000 +0200" channel="OULAMAROC">
+  <programme start="20210225070500 +0200" stop="20210225071000 +0200" channel="OULAMAROC">
     <title lang="ar">النشرة الجوية</title>
     <title lang="ar">07:05  صباحًا
               [5 دقائق]</title>
   </programme>
-  <programme start="20210224071000 +0200" stop="20210224074000 +0200" channel="OULAMAROC">
+  <programme start="20210225071000 +0200" stop="20210225074000 +0200" channel="OULAMAROC">
     <title lang="ar">تينوبكا (وثائقي أمازيغي)</title>
     <title lang="ar">07:10  صباحًا
               [30 دقيقة]</title>
   </programme>
-  <programme start="20210224074000 +0200" stop="20210224084000 +0200" channel="OULAMAROC">
+  <programme start="20210225074000 +0200" stop="20210225084000 +0200" channel="OULAMAROC">
     <title lang="ar">برنامج ﺃﻣﻮﺩﻭ</title>
     <title lang="ar">07:40  صباحًا
               [60 دقيقة]</title>
-  </programme>
-  <programme start="20210224084000 +0200" stop="20210224091000 +0200" channel="OULAMAROC">
-    <title lang="ar">بنكالو</title>
-    <title lang="ar">ﺳﻴﺖ ﻛﻮﻡ
-               (2017)</title>
-    <title lang="ar">مفضل
-            ذكرني</title>
-  </programme>
-  <programme start="20210224091000 +0200" stop="20210224100000 +0200" channel="OULAMAROC">
-    <title lang="ar">مداولة</title>
-    <title lang="ar">مسلسل
-               (2013)</title>
-    <title lang="ar">مفضل
-            ذكرني</title>
-  </programme>
-  <programme start="20210224100000 +0200" stop="20210224105000 +0200" channel="OULAMAROC">
-    <title lang="ar">الحرة</title>
-    <title lang="ar">مسلسل
-               (2016)</title>
-    <title lang="ar">مفضل
-            ذكرني</title>
-  </programme>
-  <programme start="20210224105000 +0200" stop="20210224112000 +0200" channel="OULAMAROC">
-    <title lang="ar">ﺭﺍﺱ ﺍﻟﻤﺤﺎﻳﻦ</title>
-    <title lang="ar">مسلسل
-               (2013)</title>
-    <title lang="ar">مفضل
-            ذكرني</title>
-  </programme>
-  <programme start="20210224112000 +0200" stop="20210224114000 +0200" channel="OULAMAROC">
-    <title lang="ar">المدير العام</title>
-    <title lang="ar">مسلسل
-               (2017)</title>
-    <title lang="ar">مفضل
-            ذكرني</title>
-  </programme>
-  <programme start="20210224114000 +0200" stop="20210224124000 +0200" channel="OULAMAROC">
-    <title lang="ar">برنامج ﺃﺳﺮﺗﻲ</title>
-    <title lang="ar">11:40  صباحًا
-              [60 دقيقة]</title>
-  </programme>
-  <programme start="20210224124000 +0200" stop="20210224125000 +0200" channel="OULAMAROC">
-    <title lang="ar">ﺑﺮﻧﺎﻣﺞ ﺷﺒﺎﺏ ﻣﻤﻠﻜﺔ</title>
-    <title lang="ar">12:40  مساءً
-              [10 دقائق]</title>
-  </programme>
-  <programme start="20210224125000 +0200" stop="20210224130000 +0200" channel="OULAMAROC">
-    <title lang="ar">ﺑﺮﻧﺎﻣﺞ ﻻﻟﺔ ﺍﻟﻌﺮﻭﺳﺔ</title>
-    <title lang="ar">12:50  مساءً
-              [10 دقائق]</title>
-  </programme>
-  <programme start="20210224130000 +0200" stop="20210224132000 +0200" channel="OULAMAROC">
-    <title lang="ar">أخبار الظهيرة + النشرة الجوية</title>
-    <title lang="ar">01:00  مساءً
-              [20 دقيقة]</title>
-  </programme>
-  <programme start="20210224132000 +0200" stop="20210224140000 +0200" channel="OULAMAROC">
-    <title lang="ar">وعدي</title>
-    <title lang="ar">مسلسل
-               (2015)</title>
-    <title lang="ar">مفضل
-            ذكرني</title>
-  </programme>
-  <programme start="20210224140000 +0200" stop="20210224144000 +0200" channel="OULAMAROC">
-    <title lang="ar">الأخبار بالامازيغية + الأخبار بالإسبانية</title>
-    <title lang="ar">02:00  مساءً
-              [40 دقيقة]</title>
-  </programme>
-  <programme start="20210224144000 +0200" stop="20210224145000 +0200" channel="OULAMAROC">
-    <title lang="ar">ﺑﺮﻧﺎﻣﺞ ﺷﺒﺎﺏ ﻣﻤﻠﻜﺔ</title>
-    <title lang="ar">02:40  مساءً
-              [10 دقائق]</title>
-  </programme>
-  <programme start="20210224145000 +0200" stop="20210224170000 +0200" channel="OULAMAROC">
-    <title lang="ar">ﺑﺮﻧﺎﻣﺞ ﻻﻟﺔ ﺍﻟﻌﺮﻭﺳﺔ</title>
-    <title lang="ar">02:50  مساءً
-              [130 دقيقة]</title>
-  </programme>
-  <programme start="20210224170000 +0200" stop="20210224180000 +0200" channel="OULAMAROC">
-    <title lang="ar">ﺑﺮﻧﺎﻣﺞ ﺍﻟﻬﻮﺩﺝ</title>
-    <title lang="ar">05:00  مساءً
-              [60 دقيقة]</title>
-  </programme>
-  <programme start="20210224180000 +0200" stop="20210224185000 +0200" channel="OULAMAROC">
-    <title lang="ar">مداولة</title>
-    <title lang="ar">مسلسل
-               (2013)</title>
-    <title lang="ar">مفضل
-            ذكرني</title>
-  </programme>
-  <programme start="20210224185000 +0200" stop="20210224190000 +0200" channel="OULAMAROC">
-    <title lang="ar">ﺍﻟﻤﺠﻠﺔ ﺍﻻﻗﺘﺼﺎﺩﻳﺔ</title>
-    <title lang="ar">06:50  مساءً
-              [10 دقائق]</title>
-  </programme>
-  <programme start="20210224190000 +0200" stop="20210224192000 +0200" channel="OULAMAROC">
-    <title lang="ar">الأخبار بالفرنسية</title>
-    <title lang="ar">07:00  مساءً
-              [20 دقيقة]</title>
-  </programme>
-  <programme start="20210224192000 +0200" stop="20210224194000 +0200" channel="OULAMAROC">
-    <title lang="ar">المدير العام</title>
-    <title lang="ar">مسلسل
-               (2017)</title>
-    <title lang="ar">مفضل
-            ذكرني</title>
-  </programme>
-  <programme start="20210224194000 +0200" stop="20210224201000 +0200" channel="OULAMAROC">
-    <title lang="ar">بنكالو</title>
-    <title lang="ar">ﺳﻴﺖ ﻛﻮﻡ
-               (2017)</title>
-    <title lang="ar">مفضل
-            ذكرني</title>
-  </programme>
-  <programme start="20210224201000 +0200" stop="20210224202000 +0200" channel="OULAMAROC">
-    <title lang="ar">ﺑﺮﻧﺎﻣﺞ ﻻﻟﺔ ﺍﻟﻌﺮﻭﺳﺔ</title>
-    <title lang="ar">08:10  مساءً
-              [10 دقائق]</title>
-  </programme>
-  <programme start="20210224202000 +0200" stop="20210224205000 +0200" channel="OULAMAROC">
-    <title lang="ar">ﺭﺍﺱ ﺍﻟﻤﺤﺎﻳﻦ</title>
-    <title lang="ar">مسلسل
-               (2013)</title>
-    <title lang="ar">مفضل
-            ذكرني</title>
-  </programme>
-  <programme start="20210224205000 +0200" stop="20210224210000 +0200" channel="OULAMAROC">
-    <title lang="ar">ﺑﺮﻧﺎﻣﺞ ﺷﺒﺎﺏ ﻣﻤﻠﻜﺔ</title>
-    <title lang="ar">08:50  مساءً
-              [10 دقائق]</title>
-  </programme>
-  <programme start="20210224210000 +0200" stop="20210224215000 +0200" channel="OULAMAROC">
-    <title lang="ar">الأخبار الرئيسية + النشرة الجوية</title>
-    <title lang="ar">09:00  مساءً
-              [50 دقيقة]</title>
-  </programme>
-  <programme start="20210224215000 +0200" stop="20210224222000 +0200" channel="OULAMAROC">
-    <title lang="ar">الصلا والسلام</title>
-    <title lang="ar">مسلسل
-               (2021)</title>
-    <title lang="ar">مفضل
-            ذكرني</title>
-  </programme>
-  <programme start="20210224222000 +0200" stop="20210224225000 +0200" channel="OULAMAROC">
-    <title lang="ar">الصلا والسلام</title>
-    <title lang="ar">مسلسل
-               (2021)</title>
-    <title lang="ar">مفضل
-            ذكرني</title>
-  </programme>
-  <programme start="20210224225000 +0200" stop="20210224235000 +0200" channel="OULAMAROC">
-    <title lang="ar">برنامج وثائقي</title>
-    <title lang="ar">10:50  مساءً
-              [60 دقيقة]</title>
-  </programme>
-  <programme start="20210224235000 +0200" stop="20210225000000 +0200" channel="OULAMAROC">
-    <title lang="ar">ﺑﺮﻧﺎﻣﺞ ﺷﺒﺎﺏ ﻣﻤﻠﻜﺔ</title>
-    <title lang="ar">11:50  مساءً
-              [10 دقائق]</title>
-  </programme>
-  <programme start="20210225000000 +0200" stop="20210225002000 +0200" channel="OULAMAROC">
-    <title lang="ar">الاخبار الاخيرة</title>
-    <title lang="ar">12:00  صباحًا
-              [20 دقيقة]</title>
-  </programme>
-  <programme start="20210225002000 +0200" stop="20210225011500 +0200" channel="OULAMAROC">
-    <title lang="ar">البيوت اسرار</title>
-    <title lang="ar">مسلسل
-               (2021)</title>
-    <title lang="ar">مفضل
-            ذكرني</title>
-  </programme>
-  <programme start="20210225011500 +0200" stop="20210225014500 +0200" channel="OULAMAROC">
-    <title lang="ar">ﺑﺮﻧﺎﻣﺞ ﺷﺎﺷﺎﺕ</title>
-    <title lang="ar">01:15  صباحًا
-              [30 دقيقة]</title>
-  </programme>
-  <programme start="20210225014500 +0200" stop="20210225024000 +0200" channel="OULAMAROC">
-    <title lang="ar">ﺑﺮﻧﺎﻣﺞ ﺍﻟﻬﻮﺩﺝ</title>
-    <title lang="ar">01:45  صباحًا
-              [55 دقيقة]</title>
-  </programme>
-  <programme start="20210225024000 +0200" stop="20210225031000 +0200" channel="OULAMAROC">
-    <title lang="ar">تينوبكا (وثائقي أمازيغي)</title>
-    <title lang="ar">02:40  صباحًا
-              [30 دقيقة]</title>
-  </programme>
-  <programme start="20210225031000 +0200" stop="20210225034000 +0200" channel="OULAMAROC">
-    <title lang="ar">بنكالو</title>
-    <title lang="ar">ﺳﻴﺖ ﻛﻮﻡ
-               (2017)</title>
-    <title lang="ar">مفضل
-            ذكرني</title>
-  </programme>
-  <programme start="20210225034000 +0200" stop="20210225041000 +0200" channel="OULAMAROC">
-    <title lang="ar">وعدي</title>
-    <title lang="ar">مسلسل
-               (2015)</title>
-    <title lang="ar">مفضل
-            ذكرني</title>
-  </programme>
-  <programme start="20210225041000 +0200" stop="20210225050000 +0200" channel="OULAMAROC">
-    <title lang="ar">الحرة</title>
-    <title lang="ar">مسلسل
-               (2016)</title>
-    <title lang="ar">مفضل
-            ذكرني</title>
   </programme>
   <programme start="20210225084000 +0200" stop="20210225091000 +0200" channel="OULAMAROC">
     <title lang="ar">بنكالو</title>
@@ -331,12 +117,37 @@
     <title lang="ar">11:50  صباحًا
               [50 دقيقة]</title>
   </programme>
+  <programme start="20210225124000 +0200" stop="20210225125000 +0200" channel="OULAMAROC">
+    <title lang="ar">ﺑﺮﻧﺎﻣﺞ ﺷﺒﺎﺏ ﻣﻤﻠﻜﺔ</title>
+    <title lang="ar">12:40  مساءً
+              [10 دقائق]</title>
+  </programme>
+  <programme start="20210225125000 +0200" stop="20210225130000 +0200" channel="OULAMAROC">
+    <title lang="ar">ﺑﺮﻧﺎﻣﺞ ﻻﻟﺔ ﺍﻟﻌﺮﻭﺳﺔ</title>
+    <title lang="ar">12:50  مساءً
+              [10 دقائق]</title>
+  </programme>
+  <programme start="20210225130000 +0200" stop="20210225132000 +0200" channel="OULAMAROC">
+    <title lang="ar">أخبار الظهيرة + النشرة الجوية</title>
+    <title lang="ar">01:00  مساءً
+              [20 دقيقة]</title>
+  </programme>
   <programme start="20210225132000 +0200" stop="20210225140000 +0200" channel="OULAMAROC">
     <title lang="ar">وعدي</title>
     <title lang="ar">مسلسل
                (2015)</title>
     <title lang="ar">مفضل
             ذكرني</title>
+  </programme>
+  <programme start="20210225140000 +0200" stop="20210225144000 +0200" channel="OULAMAROC">
+    <title lang="ar">الأخبار بالامازيغية + الأخبار بالإسبانية</title>
+    <title lang="ar">02:00  مساءً
+              [40 دقيقة]</title>
+  </programme>
+  <programme start="20210225144000 +0200" stop="20210225145000 +0200" channel="OULAMAROC">
+    <title lang="ar">ﺑﺮﻧﺎﻣﺞ ﺷﺒﺎﺏ ﻣﻤﻠﻜﺔ</title>
+    <title lang="ar">02:40  مساءً
+              [10 دقائق]</title>
   </programme>
   <programme start="20210225145000 +0200" stop="20210225160000 +0200" channel="OULAMAROC">
     <title lang="ar">ﺑﺮﻧﺎﻣﺞ ﻗﻀﺎﻳﺎ ﻭﺁﺭﺍﺀ</title>
@@ -365,6 +176,11 @@
     <title lang="ar">06:50  مساءً
               [10 دقائق]</title>
   </programme>
+  <programme start="20210225190000 +0200" stop="20210225192000 +0200" channel="OULAMAROC">
+    <title lang="ar">الأخبار بالفرنسية</title>
+    <title lang="ar">07:00  مساءً
+              [20 دقيقة]</title>
+  </programme>
   <programme start="20210225192000 +0200" stop="20210225193500 +0200" channel="OULAMAROC">
     <title lang="ar">المدير العام</title>
     <title lang="ar">مسلسل
@@ -379,6 +195,11 @@
     <title lang="ar">مفضل
             ذكرني</title>
   </programme>
+  <programme start="20210225201000 +0200" stop="20210225202000 +0200" channel="OULAMAROC">
+    <title lang="ar">ﺑﺮﻧﺎﻣﺞ ﻻﻟﺔ ﺍﻟﻌﺮﻭﺳﺔ</title>
+    <title lang="ar">08:10  مساءً
+              [10 دقائق]</title>
+  </programme>
   <programme start="20210225202000 +0200" stop="20210225205000 +0200" channel="OULAMAROC">
     <title lang="ar">ﺭﺍﺱ ﺍﻟﻤﺤﺎﻳﻦ</title>
     <title lang="ar">مسلسل
@@ -390,6 +211,11 @@
     <title lang="ar">ﺑﺮﻧﺎﻣﺞ ﺇﻧﺘﻈﺎﺭﺍﺕ</title>
     <title lang="ar">08:50  مساءً
               [10 دقائق]</title>
+  </programme>
+  <programme start="20210225210000 +0200" stop="20210225215000 +0200" channel="OULAMAROC">
+    <title lang="ar">الأخبار الرئيسية + النشرة الجوية</title>
+    <title lang="ar">09:00  مساءً
+              [50 دقيقة]</title>
   </programme>
   <programme start="20210225215000 +0200" stop="20210225222000 +0200" channel="OULAMAROC">
     <title lang="ar">دموع وردة</title>
@@ -468,6 +294,11 @@
     <title lang="ar">مفضل
             ذكرني</title>
   </programme>
+  <programme start="20210226050000 +0200" stop="20210226060000 +0200" channel="OULAMAROC">
+    <title lang="ar">برنامج ﺇﺷﻌﺎﻉ ﻣﻤﻠﻜﺔ</title>
+    <title lang="ar">05:00  صباحًا
+              [60 دقيقة]</title>
+  </programme>
   <programme start="20210226060000 +0200" stop="20210226070000 +0200" channel="OULAMAROC">
     <title lang="ar">ﺑﺮﻧﺎﻣﺞ أمودو</title>
     <title lang="ar">06:00  صباحًا
@@ -528,615 +359,97 @@
     <title lang="ar">01:00  مساءً
               [45 دقيقة]</title>
   </programme>
-  <programme start="20210224030000 +0200" stop="20210224040000 +0200" channel="ADNATGEO">
-    <title lang="ar">تقرير خاص بتحقيقات الكوارث الجوية</title>
-    <title lang="ar">03:00  صباحًا
-              [60 دقيقة]</title>
+  <programme start="20210226134500 +0200" stop="20210226140000 +0200" channel="OULAMAROC">
+    <title lang="ar">صلاة الجمعة</title>
+    <title lang="ar">01:45  مساءً
+              [15 دقيقة]</title>
   </programme>
-  <programme start="20210224040000 +0200" stop="20210224050000 +0200" channel="ADNATGEO">
-    <title lang="ar">مصنع المأكولات</title>
-    <title lang="ar">04:00  صباحًا
-              [60 دقيقة]</title>
+  <programme start="20210226140000 +0200" stop="20210226144000 +0200" channel="OULAMAROC">
+    <title lang="ar">وعدي</title>
+    <title lang="ar">مسلسل
+               (2015)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
   </programme>
-  <programme start="20210224050000 +0200" stop="20210224060000 +0200" channel="ADNATGEO">
-    <title lang="ar">نهاية العالم: حرب العوالم</title>
-    <title lang="ar">05:00  صباحًا
-              [60 دقيقة]</title>
+  <programme start="20210226144000 +0200" stop="20210226152000 +0200" channel="OULAMAROC">
+    <title lang="ar">الأخبار بالامازيغية + الأخبار بالإسبانية</title>
+    <title lang="ar">02:40  مساءً
+              [40 دقيقة]</title>
   </programme>
-  <programme start="20210224060000 +0200" stop="20210224070000 +0200" channel="ADNATGEO">
-    <title lang="ar">خاص: القروش</title>
-    <title lang="ar">06:00  صباحًا
-              [60 دقيقة]</title>
+  <programme start="20210226152000 +0200" stop="20210226153000 +0200" channel="OULAMAROC">
+    <title lang="ar">ﺑﺮﻧﺎﻣﺞ ﺇﻧﺘﻈﺎﺭﺍﺕ</title>
+    <title lang="ar">03:20  مساءً
+              [10 دقائق]</title>
   </programme>
-  <programme start="20210224070000 +0200" stop="20210224080000 +0200" channel="ADNATGEO">
-    <title lang="ar">لغز اختفاء كودي دايال</title>
-    <title lang="ar">07:00  صباحًا
-              [60 دقيقة]</title>
+  <programme start="20210226153000 +0200" stop="20210226155000 +0200" channel="OULAMAROC">
+    <title lang="ar">برنامج في ظلال الاسلام</title>
+    <title lang="ar">03:30  مساءً
+              [20 دقيقة]</title>
   </programme>
-  <programme start="20210224080000 +0200" stop="20210224090000 +0200" channel="ADNATGEO">
-    <title lang="ar">أضخم غارات الحرب العالمية الثانية</title>
-    <title lang="ar">08:00  صباحًا
-              [60 دقيقة]</title>
+  <programme start="20210226155000 +0200" stop="20210226162000 +0200" channel="OULAMAROC">
+    <title lang="ar">ألوان من المديح</title>
+    <title lang="ar">03:50  مساءً
+              [30 دقيقة]</title>
   </programme>
-  <programme start="20210224090000 +0200" stop="20210224100000 +0200" channel="ADNATGEO">
-    <title lang="ar">مصنع المأكولات</title>
-    <title lang="ar">09:00  صباحًا
-              [60 دقيقة]</title>
+  <programme start="20210226162000 +0200" stop="20210226163000 +0200" channel="OULAMAROC">
+    <title lang="ar">برنامج ديني</title>
+    <title lang="ar">04:20  مساءً
+              [10 دقائق]</title>
   </programme>
-  <programme start="20210224100000 +0200" stop="20210224110000 +0200" channel="ADNATGEO">
-    <title lang="ar">السلالات المفترسة</title>
-    <title lang="ar">10:00  صباحًا
-              [60 دقيقة]</title>
+  <programme start="20210226163000 +0200" stop="20210226170000 +0200" channel="OULAMAROC">
+    <title lang="ar">برنامج يسألونك</title>
+    <title lang="ar">04:30  مساءً
+              [30 دقيقة]</title>
   </programme>
-  <programme start="20210224110000 +0200" stop="20210224120000 +0200" channel="ADNATGEO">
-    <title lang="ar">كسر القضبان الموسم الثاني</title>
-    <title lang="ar">11:00  صباحًا
-              [60 دقيقة]</title>
-  </programme>
-  <programme start="20210224120000 +0200" stop="20210224130000 +0200" channel="ADNATGEO">
-    <title lang="ar">إستكشاف الصين</title>
-    <title lang="ar">12:00  مساءً
-              [60 دقيقة]</title>
-  </programme>
-  <programme start="20210224130000 +0200" stop="20210224140000 +0200" channel="ADNATGEO">
-    <title lang="ar">مصنع المأكولات</title>
-    <title lang="ar">01:00  مساءً
-              [60 دقيقة]</title>
-  </programme>
-  <programme start="20210224140000 +0200" stop="20210224150000 +0200" channel="ADNATGEO">
-    <title lang="ar">الحياة البرية في أمريكا الوسطى</title>
-    <title lang="ar">02:00  مساءً
-              [60 دقيقة]</title>
-  </programme>
-  <programme start="20210224150000 +0200" stop="20210224160000 +0200" channel="ADNATGEO">
-    <title lang="ar">الكون: عوالم محتملة</title>
-    <title lang="ar">03:00  مساءً
-              [60 دقيقة]</title>
-  </programme>
-  <programme start="20210224160000 +0200" stop="20210224170000 +0200" channel="ADNATGEO">
-    <title lang="ar">تقرير خاص بتحقيقات الكوارث الجوية</title>
-    <title lang="ar">04:00  مساءً
-              [60 دقيقة]</title>
-  </programme>
-  <programme start="20210224170000 +0200" stop="20210224180000 +0200" channel="ADNATGEO">
-    <title lang="ar">مصنع المأكولات</title>
+  <programme start="20210226170000 +0200" stop="20210226180000 +0200" channel="OULAMAROC">
+    <title lang="ar">برنامج مواقع ووقائع</title>
     <title lang="ar">05:00  مساءً
               [60 دقيقة]</title>
   </programme>
-  <programme start="20210224180000 +0200" stop="20210224190000 +0200" channel="ADNATGEO">
-    <title lang="ar">الحياة البرية في أمريكا الوسطى</title>
-    <title lang="ar">06:00  مساءً
-              [60 دقيقة]</title>
-  </programme>
-  <programme start="20210224190000 +0200" stop="20210224200000 +0200" channel="ADNATGEO">
-    <title lang="ar">علم البسطاء</title>
-    <title lang="ar">07:00  مساءً
-              [60 دقيقة]</title>
-  </programme>
-  <programme start="20210224200000 +0200" stop="20210224210000 +0200" channel="ADNATGEO">
-    <title lang="ar">طيران العمالقة</title>
-    <title lang="ar">08:00  مساءً
-              [60 دقيقة]</title>
-  </programme>
-  <programme start="20210224210000 +0200" stop="20210224220000 +0200" channel="ADNATGEO">
-    <title lang="ar">الحياة البرية في أمريكا الوسطى</title>
-    <title lang="ar">09:00  مساءً
-              [60 دقيقة]</title>
-  </programme>
-  <programme start="20210224220000 +0200" stop="20210224230000 +0200" channel="ADNATGEO">
-    <title lang="ar">علم البسطاء</title>
-    <title lang="ar">10:00  مساءً
-              [60 دقيقة]</title>
-  </programme>
-  <programme start="20210224230000 +0200" stop="20210225000000 +0200" channel="ADNATGEO">
-    <title lang="ar">طيران العمالقة</title>
-    <title lang="ar">11:00  مساءً
-              [60 دقيقة]</title>
-  </programme>
-  <programme start="20210225000000 +0200" stop="20210225010000 +0200" channel="ADNATGEO">
-    <title lang="ar">مصنع المأكولات</title>
-    <title lang="ar">12:00  صباحًا
-              [60 دقيقة]</title>
-  </programme>
-  <programme start="20210225010000 +0200" stop="20210225020000 +0200" channel="ADNATGEO">
-    <title lang="ar">الحياة البرية في أمريكا الوسطى</title>
-    <title lang="ar">01:00  صباحًا
-              [60 دقيقة]</title>
-  </programme>
-  <programme start="20210225020000 +0200" stop="20210225030000 +0200" channel="ADNATGEO">
-    <title lang="ar">علم البسطاء</title>
-    <title lang="ar">02:00  صباحًا
-              [60 دقيقة]</title>
-  </programme>
-  <programme start="20210225030000 +0200" stop="20210225040000 +0200" channel="ADNATGEO">
-    <title lang="ar">طيران العمالقة</title>
-    <title lang="ar">03:00  صباحًا
-              [60 دقيقة]</title>
-  </programme>
-  <programme start="20210225050000 +0200" stop="20210225060000 +0200" channel="ADNATGEO">
-    <title lang="ar">لغز مومياوات الهمالايا</title>
-    <title lang="ar">05:00  صباحًا
-              [60 دقيقة]</title>
-  </programme>
-  <programme start="20210225060000 +0200" stop="20210225070000 +0200" channel="ADNATGEO">
-    <title lang="ar">الصيد الأسطوري</title>
-    <title lang="ar">06:00  صباحًا
-              [60 دقيقة]</title>
-  </programme>
-  <programme start="20210225070000 +0200" stop="20210225080000 +0200" channel="ADNATGEO">
-    <title lang="ar">حكايتنا مع مورغن فريمان</title>
-    <title lang="ar">07:00  صباحًا
-              [60 دقيقة]</title>
-  </programme>
-  <programme start="20210225080000 +0200" stop="20210225090000 +0200" channel="ADNATGEO">
-    <title lang="ar">رحلتي في المحيط الهادئ</title>
-    <title lang="ar">08:00  صباحًا
-              [60 دقيقة]</title>
-  </programme>
-  <programme start="20210225100000 +0200" stop="20210225110000 +0200" channel="ADNATGEO">
-    <title lang="ar">خاص: القروش</title>
-    <title lang="ar">10:00  صباحًا
-              [60 دقيقة]</title>
-  </programme>
-  <programme start="20210225110000 +0200" stop="20210225120000 +0200" channel="ADNATGEO">
-    <title lang="ar">لغز اختفاء كودي دايال</title>
-    <title lang="ar">11:00  صباحًا
-              [60 دقيقة]</title>
-  </programme>
-  <programme start="20210225120000 +0200" stop="20210225130000 +0200" channel="ADNATGEO">
-    <title lang="ar">أعظم كنوز العصور القديمة</title>
-    <title lang="ar">12:00  مساءً
-              [60 دقيقة]</title>
-  </programme>
-  <programme start="20210225130000 +0200" stop="20210225140000 +0200" channel="ADNATGEO">
-    <title lang="ar">هياكل نازية عملاقة جاهزة للمعركة</title>
-    <title lang="ar">01:00  مساءً
-              [60 دقيقة]</title>
-  </programme>
-  <programme start="20210225150000 +0200" stop="20210225160000 +0200" channel="ADNATGEO">
-    <title lang="ar">علم البسطاء</title>
-    <title lang="ar">03:00  مساءً
-              [60 دقيقة]</title>
-  </programme>
-  <programme start="20210225160000 +0200" stop="20210225170000 +0200" channel="ADNATGEO">
-    <title lang="ar">طيران العمالقة</title>
-    <title lang="ar">04:00  مساءً
-              [60 دقيقة]</title>
-  </programme>
-  <programme start="20210225180000 +0200" stop="20210225190000 +0200" channel="ADNATGEO">
-    <title lang="ar">النمر الأسود الحقيقي</title>
-    <title lang="ar">06:00  مساءً
-              [60 دقيقة]</title>
-  </programme>
-  <programme start="20210225190000 +0200" stop="20210225200000 +0200" channel="ADNATGEO">
-    <title lang="ar">اكتشاف عالم المحيطات الموسم الثاني</title>
-    <title lang="ar">07:00  مساءً
-              [60 دقيقة]</title>
-  </programme>
-  <programme start="20210225200000 +0200" stop="20210225210000 +0200" channel="ADNATGEO">
-    <title lang="ar">تحقيقات الكوارث الجوية</title>
-    <title lang="ar">08:00  مساءً
-              [60 دقيقة]</title>
-  </programme>
-  <programme start="20210225210000 +0200" stop="20210225220000 +0200" channel="ADNATGEO">
-    <title lang="ar">النمر الأسود الحقيقي</title>
-    <title lang="ar">09:00  مساءً
-              [60 دقيقة]</title>
-  </programme>
-  <programme start="20210225220000 +0200" stop="20210225230000 +0200" channel="ADNATGEO">
-    <title lang="ar">اكتشاف عالم المحيطات الموسم الثاني</title>
-    <title lang="ar">10:00  مساءً
-              [60 دقيقة]</title>
-  </programme>
-  <programme start="20210225230000 +0200" stop="20210226000000 +0200" channel="ADNATGEO">
-    <title lang="ar">تحقيقات الكوارث الجوية</title>
-    <title lang="ar">11:00  مساءً
-              [60 دقيقة]</title>
-  </programme>
-  <programme start="20210226000000 +0200" stop="20210226010000 +0200" channel="ADNATGEO">
-    <title lang="ar">هياكل نازية عملاقة جاهزة للمعركة</title>
-    <title lang="ar">12:00  صباحًا
-              [60 دقيقة]</title>
-  </programme>
-  <programme start="20210226010000 +0200" stop="20210226020000 +0200" channel="ADNATGEO">
-    <title lang="ar">النمر الأسود الحقيقي</title>
-    <title lang="ar">01:00  صباحًا
-              [60 دقيقة]</title>
-  </programme>
-  <programme start="20210226020000 +0200" stop="20210226030000 +0200" channel="ADNATGEO">
-    <title lang="ar">اكتشاف عالم المحيطات الموسم الثاني</title>
-    <title lang="ar">02:00  صباحًا
-              [60 دقيقة]</title>
-  </programme>
-  <programme start="20210226030000 +0200" stop="20210226040000 +0200" channel="ADNATGEO">
-    <title lang="ar">تحقيقات الكوارث الجوية</title>
-    <title lang="ar">03:00  صباحًا
-              [60 دقيقة]</title>
-  </programme>
-  <programme start="20210226040000 +0200" stop="20210226050000 +0200" channel="ADNATGEO">
-    <title lang="ar">هياكل نازية عملاقة جاهزة للمعركة</title>
-    <title lang="ar">04:00  صباحًا
-              [60 دقيقة]</title>
-  </programme>
-  <programme start="20210226050000 +0200" stop="20210226060000 +0200" channel="ADNATGEO">
-    <title lang="ar">أسرار الإستواء البرية</title>
-    <title lang="ar">05:00  صباحًا
-              [60 دقيقة]</title>
-  </programme>
-  <programme start="20210226060000 +0200" stop="20210226070000 +0200" channel="ADNATGEO">
-    <title lang="ar">البراري الشمالية</title>
-    <title lang="ar">06:00  صباحًا
-              [60 دقيقة]</title>
-  </programme>
-  <programme start="20210226070000 +0200" stop="20210226080000 +0200" channel="ADNATGEO">
-    <title lang="ar">المواجهة</title>
-    <title lang="ar">07:00  صباحًا
-              [60 دقيقة]</title>
-  </programme>
-  <programme start="20210226080000 +0200" stop="20210226090000 +0200" channel="ADNATGEO">
-    <title lang="ar">نساء الفايكنغ المحاربات</title>
-    <title lang="ar">08:00  صباحًا
-              [60 دقيقة]</title>
-  </programme>
-  <programme start="20210226090000 +0200" stop="20210226100000 +0200" channel="ADNATGEO">
-    <title lang="ar">تقرير خاص بتحقيقات الكوارث الجوية</title>
-    <title lang="ar">09:00  صباحًا
-              [60 دقيقة]</title>
-  </programme>
-  <programme start="20210226100000 +0200" stop="20210226110000 +0200" channel="ADNATGEO">
-    <title lang="ar">البراري الشمالية</title>
-    <title lang="ar">10:00  صباحًا
-              [60 دقيقة]</title>
-  </programme>
-  <programme start="20210226110000 +0200" stop="20210226120000 +0200" channel="ADNATGEO">
-    <title lang="ar">المواجهة</title>
-    <title lang="ar">11:00  صباحًا
-              [60 دقيقة]</title>
-  </programme>
-  <programme start="20210226120000 +0200" stop="20210226130000 +0200" channel="ADNATGEO">
-    <title lang="ar">ألعاب العقل مع المشاهير</title>
-    <title lang="ar">12:00  مساءً
-              [60 دقيقة]</title>
-  </programme>
-  <programme start="20210226130000 +0200" stop="20210226140000 +0200" channel="ADNATGEO">
-    <title lang="ar">هياكل نازية عملاقة جاهزة للمعركة</title>
-    <title lang="ar">01:00  مساءً
-              [60 دقيقة]</title>
-  </programme>
-  <programme start="20210224030000 +0200" stop="20210224043000 +0200" channel="FOX FAMILY MOVIES">
-    <title lang="ar">Howard Lovecraft &amp; the Undersea Kingdom</title>
-    <title lang="ar">فيلم
-               (2017)</title>
-    <title lang="ar">مفضل
-            ذكرني</title>
-  </programme>
-  <programme start="20210224043000 +0200" stop="20210224054500 +0200" channel="FOX FAMILY MOVIES">
-    <title lang="ar">The Princess and the Dragon</title>
-    <title lang="ar">فيلم
-               (2018)</title>
-    <title lang="ar">مفضل
-            ذكرني</title>
-  </programme>
-  <programme start="20210224054500 +0200" stop="20210224071500 +0200" channel="FOX FAMILY MOVIES">
-    <title lang="ar">The Emoji Movie</title>
-    <title lang="ar">فيلم
-               (2017)</title>
-    <title lang="ar">مفضل
-            ذكرني</title>
-  </programme>
-  <programme start="20210224071500 +0200" stop="20210224084500 +0200" channel="FOX FAMILY MOVIES">
-    <title lang="ar">The Borrowers</title>
-    <title lang="ar">فيلم
-               (1997)</title>
-    <title lang="ar">مفضل
-            ذكرني</title>
-  </programme>
-  <programme start="20210224084500 +0200" stop="20210224101500 +0200" channel="FOX FAMILY MOVIES">
-    <title lang="ar">Fantastic Journey to Oz</title>
-    <title lang="ar">فيلم
-               (2017)</title>
-    <title lang="ar">مفضل
-            ذكرني</title>
-  </programme>
-  <programme start="20210224101500 +0200" stop="20210224120000 +0200" channel="FOX FAMILY MOVIES">
-    <title lang="ar">Monsters University</title>
-    <title lang="ar">فيلم
+  <programme start="20210226180000 +0200" stop="20210226190000 +0200" channel="OULAMAROC">
+    <title lang="ar">مداولة</title>
+    <title lang="ar">مسلسل
                (2013)</title>
     <title lang="ar">مفضل
             ذكرني</title>
   </programme>
-  <programme start="20210224120000 +0200" stop="20210224133000 +0200" channel="FOX FAMILY MOVIES">
-    <title lang="ar">Howard Lovecraft and the Frozen Kingdom</title>
-    <title lang="ar">فيلم
-               (2016)</title>
-    <title lang="ar">مفضل
-            ذكرني</title>
-  </programme>
-  <programme start="20210224133000 +0200" stop="20210224150000 +0200" channel="FOX FAMILY MOVIES">
-    <title lang="ar">The Little Vampire</title>
-    <title lang="ar">فيلم
+  <programme start="20210226192000 +0200" stop="20210226194000 +0200" channel="OULAMAROC">
+    <title lang="ar">المدير العام</title>
+    <title lang="ar">مسلسل
                (2017)</title>
     <title lang="ar">مفضل
             ذكرني</title>
   </programme>
-  <programme start="20210224150000 +0200" stop="20210224171500 +0200" channel="FOX FAMILY MOVIES">
-    <title lang="ar">The Karate Kid</title>
-    <title lang="ar">فيلم
-               (2010)</title>
-    <title lang="ar">مفضل
-            ذكرني</title>
-  </programme>
-  <programme start="20210224171500 +0200" stop="20210224184500 +0200" channel="FOX FAMILY MOVIES">
-    <title lang="ar">Ratchet and Clank</title>
-    <title lang="ar">فيلم
-               (2016)</title>
-    <title lang="ar">مفضل
-            ذكرني</title>
-  </programme>
-  <programme start="20210224184500 +0200" stop="20210224204500 +0200" channel="FOX FAMILY MOVIES">
-    <title lang="ar">Spare Parts</title>
-    <title lang="ar">فيلم
-               (2015)</title>
-    <title lang="ar">مفضل
-            ذكرني</title>
-  </programme>
-  <programme start="20210224204500 +0200" stop="20210224221500 +0200" channel="FOX FAMILY MOVIES">
-    <title lang="ar">Race to Win</title>
-    <title lang="ar">فيلم
-               (2016)</title>
-    <title lang="ar">مفضل
-            ذكرني</title>
-  </programme>
-  <programme start="20210224221500 +0200" stop="20210224233000 +0200" channel="FOX FAMILY MOVIES">
-    <title lang="ar">The Swan Princess</title>
-    <title lang="ar">فيلم
-               (1994)</title>
-    <title lang="ar">مفضل
-            ذكرني</title>
-  </programme>
-  <programme start="20210224233000 +0200" stop="20210225010000 +0200" channel="FOX FAMILY MOVIES">
-    <title lang="ar">Tarzan</title>
-    <title lang="ar">فيلم
-               (1999)</title>
-    <title lang="ar">مفضل
-            ذكرني</title>
-  </programme>
-  <programme start="20210225010000 +0200" stop="20210225030000 +0200" channel="FOX FAMILY MOVIES">
-    <title lang="ar">Howard Lovecraft and the Frozen Kingdom</title>
-    <title lang="ar">فيلم
-               (2016)</title>
-    <title lang="ar">مفضل
-            ذكرني</title>
-  </programme>
-  <programme start="20210225030000 +0200" stop="20210225043000 +0200" channel="FOX FAMILY MOVIES">
-    <title lang="ar">The Borrowers</title>
-    <title lang="ar">فيلم
-               (1997)</title>
-    <title lang="ar">مفضل
-            ذكرني</title>
-  </programme>
-  <programme start="20210225043000 +0200" stop="20210225060000 +0200" channel="FOX FAMILY MOVIES">
-    <title lang="ar">Fantastic Journey to Oz</title>
-    <title lang="ar">فيلم
+  <programme start="20210226194000 +0200" stop="20210226201000 +0200" channel="OULAMAROC">
+    <title lang="ar">بنكالو</title>
+    <title lang="ar">ﺳﻴﺖ ﻛﻮﻡ
                (2017)</title>
     <title lang="ar">مفضل
             ذكرني</title>
   </programme>
-  <programme start="20210225060000 +0200" stop="20210225073000 +0200" channel="FOX FAMILY MOVIES">
-    <title lang="ar">Marshall's Miracle</title>
-    <title lang="ar">فيلم
-               (2015)</title>
+  <programme start="20210226202000 +0200" stop="20210226205000 +0200" channel="OULAMAROC">
+    <title lang="ar">ﺭﺍﺱ ﺍﻟﻤﺤﺎﻳﻦ</title>
+    <title lang="ar">مسلسل
+               (2013)</title>
     <title lang="ar">مفضل
             ذكرني</title>
   </programme>
-  <programme start="20210225073000 +0200" stop="20210225084500 +0200" channel="FOX FAMILY MOVIES">
-    <title lang="ar">Kung Fu Style</title>
+  <programme start="20210226215000 +0200" stop="20210226232000 +0200" channel="OULAMAROC">
+    <title lang="ar">ربيبي مليونير</title>
     <title lang="ar">فيلم
-               (2015)</title>
+               (2019)</title>
     <title lang="ar">مفضل
             ذكرني</title>
   </programme>
-  <programme start="20210225084500 +0200" stop="20210225103000 +0200" channel="FOX FAMILY MOVIES">
-    <title lang="ar">Bling</title>
-    <title lang="ar">فيلم
-               (2016)</title>
-    <title lang="ar">مفضل
-            ذكرني</title>
+  <programme start="20210226232000 +0200" stop="20210226235000 +0200" channel="OULAMAROC">
+    <title lang="ar">ﺑﺮﻧﺎﻣﺞ شاشات</title>
+    <title lang="ar">11:20  مساءً
+              [30 دقيقة]</title>
   </programme>
-  <programme start="20210225103000 +0200" stop="20210225120000 +0200" channel="FOX FAMILY MOVIES">
-    <title lang="ar">.Monsters, Inc</title>
-    <title lang="ar">فيلم
-               (2001)</title>
-    <title lang="ar">مفضل
-            ذكرني</title>
-  </programme>
-  <programme start="20210225120000 +0200" stop="20210225133000 +0200" channel="FOX FAMILY MOVIES">
-    <title lang="ar">Howard Lovecraft &amp; the Undersea Kingdom</title>
-    <title lang="ar">فيلم
-               (2017)</title>
-    <title lang="ar">مفضل
-            ذكرني</title>
-  </programme>
-  <programme start="20210225133000 +0200" stop="20210225150000 +0200" channel="FOX FAMILY MOVIES">
-    <title lang="ar">The Princess and the Dragon</title>
-    <title lang="ar">فيلم
-               (2018)</title>
-    <title lang="ar">مفضل
-            ذكرني</title>
-  </programme>
-  <programme start="20210225150000 +0200" stop="20210225164500 +0200" channel="FOX FAMILY MOVIES">
-    <title lang="ar">Growing Up Smith</title>
-    <title lang="ar">فيلم
-               (2015)</title>
-    <title lang="ar">مفضل
-            ذكرني</title>
-  </programme>
-  <programme start="20210225164500 +0200" stop="20210225181500 +0200" channel="FOX FAMILY MOVIES">
-    <title lang="ar">Spark: A Space Tail</title>
-    <title lang="ar">فيلم
-               (2016)</title>
-    <title lang="ar">مفضل
-            ذكرني</title>
-  </programme>
-  <programme start="20210225181500 +0200" stop="20210225194500 +0200" channel="FOX FAMILY MOVIES">
-    <title lang="ar">Stuart Little</title>
-    <title lang="ar">فيلم
-               (1999)</title>
-    <title lang="ar">مفضل
-            ذكرني</title>
-  </programme>
-  <programme start="20210224061900 +0100" stop="20210224064600 +0100" channel="A+INTERNATIONAL">
-    <title lang="fr">C'est la vie</title>
-  </programme>
-  <programme start="20210224064600 +0100" stop="20210224073400 +0100" channel="A+INTERNATIONAL">
-    <title lang="fr">Mara Une Femme Unique</title>
-  </programme>
-  <programme start="20210224073400 +0100" stop="20210224075700 +0100" channel="A+INTERNATIONAL">
-    <title lang="fr">Imbewu:le Fruit Du Mensonge</title>
-  </programme>
-  <programme start="20210224075700 +0100" stop="20210224082200 +0100" channel="A+INTERNATIONAL">
-    <title lang="fr">Imbewu : le fruit du mensonge</title>
-  </programme>
-  <programme start="20210224082200 +0100" stop="20210224084700 +0100" channel="A+INTERNATIONAL">
-    <title lang="fr">Ma grande famille</title>
-  </programme>
-  <programme start="20210224084700 +0100" stop="20210224091400 +0100" channel="A+INTERNATIONAL">
-    <title lang="fr">Ma grande famille</title>
-  </programme>
-  <programme start="20210224091400 +0100" stop="20210224094100 +0100" channel="A+INTERNATIONAL">
-    <title lang="fr">C'est la vie</title>
-  </programme>
-  <programme start="20210224094100 +0100" stop="20210224100800 +0100" channel="A+INTERNATIONAL">
-    <title lang="fr">C'est la vie</title>
-  </programme>
-  <programme start="20210224100800 +0100" stop="20210224105000 +0100" channel="A+INTERNATIONAL">
-    <title lang="fr">Mara Une Femme Unique</title>
-  </programme>
-  <programme start="20210224105000 +0100" stop="20210224111200 +0100" channel="A+INTERNATIONAL">
-    <title lang="fr">Imbewu:le Fruit Du Mensonge</title>
-  </programme>
-  <programme start="20210224111200 +0100" stop="20210224114000 +0100" channel="A+INTERNATIONAL">
-    <title lang="fr">Imbewu : le fruit du mensonge</title>
-  </programme>
-  <programme start="20210224114000 +0100" stop="20210224120500 +0100" channel="A+INTERNATIONAL">
-    <title lang="fr">Ma grande famille</title>
-  </programme>
-  <programme start="20210224120500 +0100" stop="20210224123300 +0100" channel="A+INTERNATIONAL">
-    <title lang="fr">Ma grande famille</title>
-  </programme>
-  <programme start="20210224123300 +0100" stop="20210224130000 +0100" channel="A+INTERNATIONAL">
-    <title lang="fr">C'est la vie</title>
-  </programme>
-  <programme start="20210224130000 +0100" stop="20210224132700 +0100" channel="A+INTERNATIONAL">
-    <title lang="fr">C'est la vie</title>
-  </programme>
-  <programme start="20210224132700 +0100" stop="20210224141500 +0100" channel="A+INTERNATIONAL">
-    <title lang="fr">Mara Une Femme Unique</title>
-  </programme>
-  <programme start="20210224141500 +0100" stop="20210224141900 +0100" channel="A+INTERNATIONAL">
-    <title lang="fr">Clips</title>
-  </programme>
-  <programme start="20210224141900 +0100" stop="20210224144200 +0100" channel="A+INTERNATIONAL">
-    <title lang="fr">Imbewu:le Fruit Du Mensonge</title>
-  </programme>
-  <programme start="20210224144200 +0100" stop="20210224150000 +0100" channel="A+INTERNATIONAL">
-    <title lang="fr">Imbewu : le fruit du mensonge</title>
-  </programme>
-  <programme start="20210224150000 +0100" stop="20210224152600 +0100" channel="A+INTERNATIONAL">
-    <title lang="fr">Ma grande famille</title>
-  </programme>
-  <programme start="20210224152600 +0100" stop="20210224155000 +0100" channel="A+INTERNATIONAL">
-    <title lang="fr">Ma grande famille</title>
-  </programme>
-  <programme start="20210224155000 +0100" stop="20210224161300 +0100" channel="A+INTERNATIONAL">
-    <title lang="fr">C'est la vie</title>
-  </programme>
-  <programme start="20210224161300 +0100" stop="20210224164300 +0100" channel="A+INTERNATIONAL">
-    <title lang="fr">C'est la vie</title>
-  </programme>
-  <programme start="20210224164300 +0100" stop="20210224173100 +0100" channel="A+INTERNATIONAL">
-    <title lang="fr">Mara, une femme unique</title>
-  </programme>
-  <programme start="20210224173100 +0100" stop="20210224175400 +0100" channel="A+INTERNATIONAL">
-    <title lang="fr">Imbewu : le fruit du mensonge</title>
-  </programme>
-  <programme start="20210224175400 +0100" stop="20210224181700 +0100" channel="A+INTERNATIONAL">
-    <title lang="fr">Imbewu : le fruit du mensonge</title>
-  </programme>
-  <programme start="20210224181700 +0100" stop="20210224184300 +0100" channel="A+INTERNATIONAL">
-    <title lang="fr">Ma grande famille</title>
-  </programme>
-  <programme start="20210224184300 +0100" stop="20210224190900 +0100" channel="A+INTERNATIONAL">
-    <title lang="fr">Ma grande famille</title>
-  </programme>
-  <programme start="20210224190900 +0100" stop="20210224193300 +0100" channel="A+INTERNATIONAL">
-    <title lang="fr">C'est la vie</title>
-  </programme>
-  <programme start="20210224193300 +0100" stop="20210224200200 +0100" channel="A+INTERNATIONAL">
-    <title lang="fr">C'est la vie</title>
-  </programme>
-  <programme start="20210224200200 +0100" stop="20210224205000 +0100" channel="A+INTERNATIONAL">
-    <title lang="fr">Mara, une femme unique</title>
-  </programme>
-  <programme start="20210224205000 +0100" stop="20210224211200 +0100" channel="A+INTERNATIONAL">
-    <title lang="fr">Imbewu : le fruit du mensonge</title>
-  </programme>
-  <programme start="20210224211200 +0100" stop="20210224214000 +0100" channel="A+INTERNATIONAL">
-    <title lang="fr">Imbewu : le fruit du mensonge</title>
-  </programme>
-  <programme start="20210224214000 +0100" stop="20210224220600 +0100" channel="A+INTERNATIONAL">
-    <title lang="fr">Ma grande famille</title>
-  </programme>
-  <programme start="20210224220600 +0100" stop="20210224223200 +0100" channel="A+INTERNATIONAL">
-    <title lang="fr">Ma grande famille</title>
-  </programme>
-  <programme start="20210224223200 +0100" stop="20210224225600 +0100" channel="A+INTERNATIONAL">
-    <title lang="fr">C'est la vie</title>
-  </programme>
-  <programme start="20210224225600 +0100" stop="20210224232600 +0100" channel="A+INTERNATIONAL">
-    <title lang="fr">C'est la vie</title>
-  </programme>
-  <programme start="20210224232600 +0100" stop="20210225001300 +0100" channel="A+INTERNATIONAL">
-    <title lang="fr">Mara, une femme unique</title>
-  </programme>
-  <programme start="20210225001300 +0100" stop="20210225003600 +0100" channel="A+INTERNATIONAL">
-    <title lang="fr">Imbewu : le fruit du mensonge</title>
-  </programme>
-  <programme start="20210225003600 +0100" stop="20210225005800 +0100" channel="A+INTERNATIONAL">
-    <title lang="fr">Imbewu : le fruit du mensonge</title>
-  </programme>
-  <programme start="20210225005800 +0100" stop="20210225012400 +0100" channel="A+INTERNATIONAL">
-    <title lang="fr">Ma grande famille</title>
-  </programme>
-  <programme start="20210225012400 +0100" stop="20210225015000 +0100" channel="A+INTERNATIONAL">
-    <title lang="fr">Ma grande famille</title>
-  </programme>
-  <programme start="20210225015000 +0100" stop="20210225021400 +0100" channel="A+INTERNATIONAL">
-    <title lang="fr">C'est la vie</title>
-  </programme>
-  <programme start="20210225021400 +0100" stop="20210225024200 +0100" channel="A+INTERNATIONAL">
-    <title lang="fr">C'est la vie</title>
-  </programme>
-  <programme start="20210225024200 +0100" stop="20210225032900 +0100" channel="A+INTERNATIONAL">
-    <title lang="fr">Mara, une femme unique</title>
-  </programme>
-  <programme start="20210225032900 +0100" stop="20210225035200 +0100" channel="A+INTERNATIONAL">
-    <title lang="fr">Imbewu : le fruit du mensonge</title>
-  </programme>
-  <programme start="20210225035200 +0100" stop="20210225041400 +0100" channel="A+INTERNATIONAL">
-    <title lang="fr">Imbewu : le fruit du mensonge</title>
-  </programme>
-  <programme start="20210225041400 +0100" stop="20210225050000 +0100" channel="A+INTERNATIONAL">
-    <title lang="fr">Mara, une femme unique</title>
-  </programme>
-  <programme start="20210225050000 +0100" stop="20210225052600 +0100" channel="A+INTERNATIONAL">
-    <title lang="fr">Ma grande famille</title>
-  </programme>
-  <programme start="20210225052600 +0100" stop="20210225055200 +0100" channel="A+INTERNATIONAL">
-    <title lang="fr">Ma grande famille</title>
-  </programme>
-  <programme start="20210225055200 +0100" stop="20210225061600 +0100" channel="A+INTERNATIONAL">
-    <title lang="fr">C'est la vie</title>
+  <programme start="20210226235000 +0200" stop="20210227000000 +0200" channel="OULAMAROC">
+    <title lang="ar">ﺑﺮﻧﺎﻣﺞ ﺇﻧﺘﻈﺎﺭﺍﺕ</title>
+    <title lang="ar">11:50  مساءً
+              [10 دقائق]</title>
   </programme>
   <programme start="20210225061600 +0100" stop="20210225064400 +0100" channel="A+INTERNATIONAL">
     <title lang="fr">C'est la vie</title>
@@ -1441,99 +754,6 @@
   <programme start="20210227052300 +0100" stop="20210227054600 +0100" channel="A+INTERNATIONAL">
     <title lang="fr">Imbewu : le fruit du mensonge</title>
   </programme>
-  <programme start="20210224070000 +0100" stop="20210224072500 +0100" channel="MUSEUMTV FRA">
-    <title lang="fr">Brilliant Ideas</title>
-  </programme>
-  <programme start="20210224072500 +0100" stop="20210224073000 +0100" channel="MUSEUMTV FRA">
-    <title lang="fr">Brilliant Ideas</title>
-  </programme>
-  <programme start="20210224073000 +0100" stop="20210224085000 +0100" channel="MUSEUMTV FRA">
-    <title lang="fr">Art 21</title>
-  </programme>
-  <programme start="20210224085000 +0100" stop="20210224092000 +0100" channel="MUSEUMTV FRA">
-    <title lang="fr">Comment regarder une peinture ?</title>
-  </programme>
-  <programme start="20210224092000 +0100" stop="20210224093500 +0100" channel="MUSEUMTV FRA">
-    <title lang="fr">Kaboom !</title>
-  </programme>
-  <programme start="20210224093500 +0100" stop="20210224095500 +0100" channel="MUSEUMTV FRA">
-    <title lang="fr">Travelers</title>
-  </programme>
-  <programme start="20210224095500 +0100" stop="20210224103500 +0100" channel="MUSEUMTV FRA">
-    <title lang="fr">Travelers</title>
-  </programme>
-  <programme start="20210224103500 +0100" stop="20210224110000 +0100" channel="MUSEUMTV FRA">
-    <title lang="fr">City Time Traveller</title>
-  </programme>
-  <programme start="20210224110000 +0100" stop="20210224113000 +0100" channel="MUSEUMTV FRA">
-    <title lang="fr">City Time Traveller</title>
-  </programme>
-  <programme start="20210224113000 +0100" stop="20210224120500 +0100" channel="MUSEUMTV FRA">
-    <title lang="fr">Sketchbook</title>
-  </programme>
-  <programme start="20210224120500 +0100" stop="20210224130000 +0100" channel="MUSEUMTV FRA">
-    <title lang="fr">La grande expo</title>
-  </programme>
-  <programme start="20210224130000 +0100" stop="20210224140000 +0100" channel="MUSEUMTV FRA">
-    <title lang="fr">Les grands maîtres de la peinture</title>
-  </programme>
-  <programme start="20210224140000 +0100" stop="20210224150000 +0100" channel="MUSEUMTV FRA">
-    <title lang="fr">Le génie de Carl Fabergé</title>
-  </programme>
-  <programme start="20210224150000 +0100" stop="20210224160000 +0100" channel="MUSEUMTV FRA">
-    <title lang="fr">Dans les pas de George Chinnery</title>
-  </programme>
-  <programme start="20210224160000 +0100" stop="20210224165500 +0100" channel="MUSEUMTV FRA">
-    <title lang="fr">Artland</title>
-  </programme>
-  <programme start="20210224165500 +0100" stop="20210224172500 +0100" channel="MUSEUMTV FRA">
-    <title lang="fr">Rêvolution digitale</title>
-  </programme>
-  <programme start="20210224172500 +0100" stop="20210224175500 +0100" channel="MUSEUMTV FRA">
-    <title lang="fr">Hunters of Light</title>
-  </programme>
-  <programme start="20210224175500 +0100" stop="20210224180000 +0100" channel="MUSEUMTV FRA">
-    <title lang="fr">Art Quiz</title>
-  </programme>
-  <programme start="20210224180000 +0100" stop="20210224190000 +0100" channel="MUSEUMTV FRA">
-    <title lang="fr">La grande expo</title>
-  </programme>
-  <programme start="20210224190000 +0100" stop="20210224192500 +0100" channel="MUSEUMTV FRA">
-    <title lang="fr">City Time Traveller</title>
-  </programme>
-  <programme start="20210224192500 +0100" stop="20210224195500 +0100" channel="MUSEUMTV FRA">
-    <title lang="fr">City Time Traveller</title>
-  </programme>
-  <programme start="20210224195500 +0100" stop="20210224200000 +0100" channel="MUSEUMTV FRA">
-    <title lang="fr">My Little Museum</title>
-  </programme>
-  <programme start="20210224200000 +0100" stop="20210224203000 +0100" channel="MUSEUMTV FRA">
-    <title lang="fr">Musée d'art à (re)voir</title>
-  </programme>
-  <programme start="20210224203000 +0100" stop="20210224213000 +0100" channel="MUSEUMTV FRA">
-    <title lang="fr">Le génie de Carl Fabergé</title>
-  </programme>
-  <programme start="20210224213000 +0100" stop="20210224223000 +0100" channel="MUSEUMTV FRA">
-    <title lang="fr">Dans les pas de George Chinnery</title>
-  </programme>
-  <programme start="20210224223000 +0100" stop="20210224233000 +0100" channel="MUSEUMTV FRA">
-    <title lang="fr">Les grands maîtres de la peinture</title>
-  </programme>
-  <programme start="20210224233000 +0100" stop="20210225000000 +0100" channel="MUSEUMTV FRA">
-    <title lang="fr">Landscapes Through Time</title>
-  </programme>
-  <programme start="20210225000000 +0100" stop="20210225010000 +0100" channel="MUSEUMTV FRA">
-    <title lang="fr">Photo Contest</title>
-  </programme>
-  <programme start="20210225010000 +0100" stop="20210225015000 +0100" channel="MUSEUMTV FRA">
-    <title lang="fr">We Are Artists not Vandals</title>
-  </programme>
-  <programme start="20210225015000 +0100" stop="20210225030000 +0100" channel="MUSEUMTV FRA">
-    <title lang="fr">We Are Artists not Vandals</title>
-  </programme>
-  <programme start="20210225030000 +0100" stop="20210225070000 +0100" channel="MUSEUMTV FRA">
-    <title lang="fr">Video Art</title>
-  </programme>
   <programme start="20210225070000 +0100" stop="20210225072500 +0100" channel="MUSEUMTV FRA">
     <title lang="fr">Brilliant Ideas</title>
   </programme>
@@ -1716,162 +936,6 @@
   </programme>
   <programme start="20210227015000 +0100" stop="20210227030000 +0100" channel="MUSEUMTV FRA">
     <title lang="fr">We Are Artists not Vandals</title>
-  </programme>
-  <programme start="20210224200000 +0100" stop="20210224203100 +0100" channel="OLYMPIA FRA">
-    <title lang="fr">Olympiascope</title>
-  </programme>
-  <programme start="20210224203100 +0100" stop="20210224221200 +0100" channel="OLYMPIA FRA">
-    <title lang="fr">Les parapluies de Cherbourg</title>
-  </programme>
-  <programme start="20210224221200 +0100" stop="20210225000500 +0100" channel="OLYMPIA FRA">
-    <title lang="fr">Wilson chante Montand</title>
-  </programme>
-  <programme start="20210225000500 +0100" stop="20210225015300 +0100" channel="OLYMPIA FRA">
-    <title lang="fr">La nuit de la déprime 7</title>
-  </programme>
-  <programme start="20210225015300 +0100" stop="20210225200000 +0100" channel="OLYMPIA FRA">
-    <title lang="fr">La chaîne de vos soirées spectacle</title>
-  </programme>
-  <programme start="20210225200000 +0100" stop="20210225202500 +0100" channel="OLYMPIA FRA">
-    <title lang="fr">Olympiascope</title>
-  </programme>
-  <programme start="20210225202500 +0100" stop="20210225221300 +0100" channel="OLYMPIA FRA">
-    <title lang="fr">Les éternels du rire</title>
-  </programme>
-  <programme start="20210225221300 +0100" stop="20210225235500 +0100" channel="OLYMPIA FRA">
-    <title lang="fr">Guy Bedos à l'Olympia</title>
-  </programme>
-  <programme start="20210225235500 +0100" stop="20210226012400 +0100" channel="OLYMPIA FRA">
-    <title lang="fr">Pierre Palmade : Premiers adieux</title>
-  </programme>
-  <programme start="20210226012400 +0100" stop="20210226200000 +0100" channel="OLYMPIA FRA">
-    <title lang="fr">La chaîne de vos soirées spectacle</title>
-  </programme>
-  <programme start="20210226200000 +0100" stop="20210226203100 +0100" channel="OLYMPIA FRA">
-    <title lang="fr">Olympiascope</title>
-  </programme>
-  <programme start="20210226203100 +0100" stop="20210226231700 +0100" channel="OLYMPIA FRA">
-    <title lang="fr">La vie de Galilée</title>
-  </programme>
-  <programme start="20210226231700 +0100" stop="20210227013600 +0100" channel="OLYMPIA FRA">
-    <title lang="fr">La guerre de Troie n'aura pas lieu</title>
-  </programme>
-  <programme start="20210224062500 +0100" stop="20210224065000 +0100" channel="AB3FRA">
-    <title lang="fr">Hélène et les garçons</title>
-  </programme>
-  <programme start="20210224065000 +0100" stop="20210224071000 +0100" channel="AB3FRA">
-    <title lang="fr">Hélène et les garçons</title>
-  </programme>
-  <programme start="20210224071000 +0100" stop="20210224073500 +0100" channel="AB3FRA">
-    <title lang="fr">Petits secrets entre voisins</title>
-  </programme>
-  <programme start="20210224073500 +0100" stop="20210224080000 +0100" channel="AB3FRA">
-    <title lang="fr">Petits secrets entre voisins</title>
-  </programme>
-  <programme start="20210224080000 +0100" stop="20210224084500 +0100" channel="AB3FRA">
-    <title lang="fr">The Closer : L.A. enquêtes prioritaires</title>
-  </programme>
-  <programme start="20210224084500 +0100" stop="20210224092500 +0100" channel="AB3FRA">
-    <title lang="fr">The Closer : L.A. enquêtes prioritaires</title>
-  </programme>
-  <programme start="20210224092500 +0100" stop="20210224101000 +0100" channel="AB3FRA">
-    <title lang="fr">The Closer : L.A. enquêtes prioritaires</title>
-  </programme>
-  <programme start="20210224101000 +0100" stop="20210224102500 +0100" channel="AB3FRA">
-    <title lang="fr">Télé-achat</title>
-  </programme>
-  <programme start="20210224102500 +0100" stop="20210224105300 +0100" channel="AB3FRA">
-    <title lang="fr">Télé-achat</title>
-  </programme>
-  <programme start="20210224105300 +0100" stop="20210224110800 +0100" channel="AB3FRA">
-    <title lang="fr">Télé-achat</title>
-  </programme>
-  <programme start="20210224110800 +0100" stop="20210224110900 +0100" channel="AB3FRA">
-    <title lang="fr">Télé-achat</title>
-  </programme>
-  <programme start="20210224110900 +0100" stop="20210224111000 +0100" channel="AB3FRA">
-    <title lang="fr">Télé-achat</title>
-  </programme>
-  <programme start="20210224111000 +0100" stop="20210224112000 +0100" channel="AB3FRA">
-    <title lang="fr">Météo</title>
-  </programme>
-  <programme start="20210224112000 +0100" stop="20210224114000 +0100" channel="AB3FRA">
-    <title lang="fr">Petits secrets entre voisins</title>
-  </programme>
-  <programme start="20210224114000 +0100" stop="20210224120500 +0100" channel="AB3FRA">
-    <title lang="fr">Petits secrets entre voisins</title>
-  </programme>
-  <programme start="20210224120500 +0100" stop="20210224123000 +0100" channel="AB3FRA">
-    <title lang="fr">Petits secrets entre voisins</title>
-  </programme>
-  <programme start="20210224123000 +0100" stop="20210224125500 +0100" channel="AB3FRA">
-    <title lang="fr">Petits secrets entre voisins</title>
-  </programme>
-  <programme start="20210224125500 +0100" stop="20210224142000 +0100" channel="AB3FRA">
-    <title lang="fr">Mensonges et trahisons</title>
-  </programme>
-  <programme start="20210224142000 +0100" stop="20210224154500 +0100" channel="AB3FRA">
-    <title lang="fr">Le pire des mensonges</title>
-  </programme>
-  <programme start="20210224154500 +0100" stop="20210224163000 +0100" channel="AB3FRA">
-    <title lang="fr">The Closer : L.A. enquêtes prioritaires</title>
-  </programme>
-  <programme start="20210224163000 +0100" stop="20210224171500 +0100" channel="AB3FRA">
-    <title lang="fr">The Closer : L.A. enquêtes prioritaires</title>
-  </programme>
-  <programme start="20210224171500 +0100" stop="20210224175500 +0100" channel="AB3FRA">
-    <title lang="fr">The Closer : L.A. enquêtes prioritaires</title>
-  </programme>
-  <programme start="20210224175500 +0100" stop="20210224184000 +0100" channel="AB3FRA">
-    <title lang="fr">Desperate Housewives</title>
-  </programme>
-  <programme start="20210224184000 +0100" stop="20210224192500 +0100" channel="AB3FRA">
-    <title lang="fr">Desperate Housewives</title>
-  </programme>
-  <programme start="20210224192500 +0100" stop="20210224201500 +0100" channel="AB3FRA">
-    <title lang="fr">Desperate Housewives</title>
-  </programme>
-  <programme start="20210224201500 +0100" stop="20210224220500 +0100" channel="AB3FRA">
-    <title lang="fr">Evasion</title>
-  </programme>
-  <programme start="20210224220500 +0100" stop="20210224233500 +0100" channel="AB3FRA">
-    <title lang="fr">Dredd</title>
-  </programme>
-  <programme start="20210224233500 +0100" stop="20210225004000 +0100" channel="AB3FRA">
-    <title lang="fr">Appels d'urgence</title>
-  </programme>
-  <programme start="20210225004000 +0100" stop="20210225013500 +0100" channel="AB3FRA">
-    <title lang="fr">Appels d'urgence</title>
-  </programme>
-  <programme start="20210225013500 +0100" stop="20210225022500 +0100" channel="AB3FRA">
-    <title lang="fr">Appels d'urgence</title>
-  </programme>
-  <programme start="20210225022500 +0100" stop="20210225025000 +0100" channel="AB3FRA">
-    <title lang="fr">Premiers baisers</title>
-  </programme>
-  <programme start="20210225025000 +0100" stop="20210225031500 +0100" channel="AB3FRA">
-    <title lang="fr">Premiers baisers</title>
-  </programme>
-  <programme start="20210225031500 +0100" stop="20210225034000 +0100" channel="AB3FRA">
-    <title lang="fr">Premiers baisers</title>
-  </programme>
-  <programme start="20210225034000 +0100" stop="20210225040500 +0100" channel="AB3FRA">
-    <title lang="fr">Premiers baisers</title>
-  </programme>
-  <programme start="20210225040500 +0100" stop="20210225043000 +0100" channel="AB3FRA">
-    <title lang="fr">Premiers baisers</title>
-  </programme>
-  <programme start="20210225043000 +0100" stop="20210225045500 +0100" channel="AB3FRA">
-    <title lang="fr">Hélène et les garçons</title>
-  </programme>
-  <programme start="20210225045500 +0100" stop="20210225052000 +0100" channel="AB3FRA">
-    <title lang="fr">Hélène et les garçons</title>
-  </programme>
-  <programme start="20210225052000 +0100" stop="20210225054500 +0100" channel="AB3FRA">
-    <title lang="fr">Hélène et les garçons</title>
-  </programme>
-  <programme start="20210225054500 +0100" stop="20210225062500 +0100" channel="AB3FRA">
-    <title lang="fr">Hélène et les garçons</title>
   </programme>
   <programme start="20210225062500 +0100" stop="20210225065000 +0100" channel="AB3FRA">
     <title lang="fr">Hélène et les garçons</title>
@@ -2097,5 +1161,423 @@
   </programme>
   <programme start="20210227053000 +0100" stop="20210227055500 +0100" channel="AB3FRA">
     <title lang="fr">Hélène et les garçons</title>
+  </programme>
+  <programme start="20210225060000 +0200" stop="20210225070000 +0200" channel="ADNATGEO">
+    <title lang="ar">الصيد الأسطوري</title>
+    <title lang="ar">06:00  صباحًا
+              [60 دقيقة]</title>
+  </programme>
+  <programme start="20210225070000 +0200" stop="20210225080000 +0200" channel="ADNATGEO">
+    <title lang="ar">حكايتنا مع مورغن فريمان</title>
+    <title lang="ar">07:00  صباحًا
+              [60 دقيقة]</title>
+  </programme>
+  <programme start="20210225080000 +0200" stop="20210225090000 +0200" channel="ADNATGEO">
+    <title lang="ar">رحلتي في المحيط الهادئ</title>
+    <title lang="ar">08:00  صباحًا
+              [60 دقيقة]</title>
+  </programme>
+  <programme start="20210225090000 +0200" stop="20210225100000 +0200" channel="ADNATGEO">
+    <title lang="ar">مصنع المأكولات</title>
+    <title lang="ar">09:00  صباحًا
+              [60 دقيقة]</title>
+  </programme>
+  <programme start="20210225100000 +0200" stop="20210225110000 +0200" channel="ADNATGEO">
+    <title lang="ar">خاص: القروش</title>
+    <title lang="ar">10:00  صباحًا
+              [60 دقيقة]</title>
+  </programme>
+  <programme start="20210225110000 +0200" stop="20210225120000 +0200" channel="ADNATGEO">
+    <title lang="ar">لغز اختفاء كودي دايال</title>
+    <title lang="ar">11:00  صباحًا
+              [60 دقيقة]</title>
+  </programme>
+  <programme start="20210225120000 +0200" stop="20210225130000 +0200" channel="ADNATGEO">
+    <title lang="ar">أعظم كنوز العصور القديمة</title>
+    <title lang="ar">12:00  مساءً
+              [60 دقيقة]</title>
+  </programme>
+  <programme start="20210225130000 +0200" stop="20210225140000 +0200" channel="ADNATGEO">
+    <title lang="ar">هياكل نازية عملاقة جاهزة للمعركة</title>
+    <title lang="ar">01:00  مساءً
+              [60 دقيقة]</title>
+  </programme>
+  <programme start="20210225140000 +0200" stop="20210225150000 +0200" channel="ADNATGEO">
+    <title lang="ar">الحياة البرية في أمريكا الوسطى</title>
+    <title lang="ar">02:00  مساءً
+              [60 دقيقة]</title>
+  </programme>
+  <programme start="20210225150000 +0200" stop="20210225160000 +0200" channel="ADNATGEO">
+    <title lang="ar">علم البسطاء</title>
+    <title lang="ar">03:00  مساءً
+              [60 دقيقة]</title>
+  </programme>
+  <programme start="20210225160000 +0200" stop="20210225170000 +0200" channel="ADNATGEO">
+    <title lang="ar">طيران العمالقة</title>
+    <title lang="ar">04:00  مساءً
+              [60 دقيقة]</title>
+  </programme>
+  <programme start="20210225170000 +0200" stop="20210225180000 +0200" channel="ADNATGEO">
+    <title lang="ar">مصنع المأكولات</title>
+    <title lang="ar">05:00  مساءً
+              [60 دقيقة]</title>
+  </programme>
+  <programme start="20210225180000 +0200" stop="20210225190000 +0200" channel="ADNATGEO">
+    <title lang="ar">النمر الأسود الحقيقي</title>
+    <title lang="ar">06:00  مساءً
+              [60 دقيقة]</title>
+  </programme>
+  <programme start="20210225190000 +0200" stop="20210225200000 +0200" channel="ADNATGEO">
+    <title lang="ar">اكتشاف عالم المحيطات الموسم الثاني</title>
+    <title lang="ar">07:00  مساءً
+              [60 دقيقة]</title>
+  </programme>
+  <programme start="20210225200000 +0200" stop="20210225210000 +0200" channel="ADNATGEO">
+    <title lang="ar">تحقيقات الكوارث الجوية</title>
+    <title lang="ar">08:00  مساءً
+              [60 دقيقة]</title>
+  </programme>
+  <programme start="20210225210000 +0200" stop="20210225220000 +0200" channel="ADNATGEO">
+    <title lang="ar">النمر الأسود الحقيقي</title>
+    <title lang="ar">09:00  مساءً
+              [60 دقيقة]</title>
+  </programme>
+  <programme start="20210225220000 +0200" stop="20210225230000 +0200" channel="ADNATGEO">
+    <title lang="ar">اكتشاف عالم المحيطات الموسم الثاني</title>
+    <title lang="ar">10:00  مساءً
+              [60 دقيقة]</title>
+  </programme>
+  <programme start="20210225230000 +0200" stop="20210226000000 +0200" channel="ADNATGEO">
+    <title lang="ar">تحقيقات الكوارث الجوية</title>
+    <title lang="ar">11:00  مساءً
+              [60 دقيقة]</title>
+  </programme>
+  <programme start="20210226000000 +0200" stop="20210226010000 +0200" channel="ADNATGEO">
+    <title lang="ar">هياكل نازية عملاقة جاهزة للمعركة</title>
+    <title lang="ar">12:00  صباحًا
+              [60 دقيقة]</title>
+  </programme>
+  <programme start="20210226010000 +0200" stop="20210226020000 +0200" channel="ADNATGEO">
+    <title lang="ar">النمر الأسود الحقيقي</title>
+    <title lang="ar">01:00  صباحًا
+              [60 دقيقة]</title>
+  </programme>
+  <programme start="20210226020000 +0200" stop="20210226030000 +0200" channel="ADNATGEO">
+    <title lang="ar">اكتشاف عالم المحيطات الموسم الثاني</title>
+    <title lang="ar">02:00  صباحًا
+              [60 دقيقة]</title>
+  </programme>
+  <programme start="20210226030000 +0200" stop="20210226040000 +0200" channel="ADNATGEO">
+    <title lang="ar">تحقيقات الكوارث الجوية</title>
+    <title lang="ar">03:00  صباحًا
+              [60 دقيقة]</title>
+  </programme>
+  <programme start="20210226040000 +0200" stop="20210226050000 +0200" channel="ADNATGEO">
+    <title lang="ar">هياكل نازية عملاقة جاهزة للمعركة</title>
+    <title lang="ar">04:00  صباحًا
+              [60 دقيقة]</title>
+  </programme>
+  <programme start="20210226050000 +0200" stop="20210226060000 +0200" channel="ADNATGEO">
+    <title lang="ar">أسرار الإستواء البرية</title>
+    <title lang="ar">05:00  صباحًا
+              [60 دقيقة]</title>
+  </programme>
+  <programme start="20210226060000 +0200" stop="20210226070000 +0200" channel="ADNATGEO">
+    <title lang="ar">البراري الشمالية</title>
+    <title lang="ar">06:00  صباحًا
+              [60 دقيقة]</title>
+  </programme>
+  <programme start="20210226070000 +0200" stop="20210226080000 +0200" channel="ADNATGEO">
+    <title lang="ar">المواجهة</title>
+    <title lang="ar">07:00  صباحًا
+              [60 دقيقة]</title>
+  </programme>
+  <programme start="20210226080000 +0200" stop="20210226090000 +0200" channel="ADNATGEO">
+    <title lang="ar">نساء الفايكنغ المحاربات</title>
+    <title lang="ar">08:00  صباحًا
+              [60 دقيقة]</title>
+  </programme>
+  <programme start="20210226090000 +0200" stop="20210226100000 +0200" channel="ADNATGEO">
+    <title lang="ar">تقرير خاص بتحقيقات الكوارث الجوية</title>
+    <title lang="ar">09:00  صباحًا
+              [60 دقيقة]</title>
+  </programme>
+  <programme start="20210226100000 +0200" stop="20210226110000 +0200" channel="ADNATGEO">
+    <title lang="ar">البراري الشمالية</title>
+    <title lang="ar">10:00  صباحًا
+              [60 دقيقة]</title>
+  </programme>
+  <programme start="20210226110000 +0200" stop="20210226120000 +0200" channel="ADNATGEO">
+    <title lang="ar">المواجهة</title>
+    <title lang="ar">11:00  صباحًا
+              [60 دقيقة]</title>
+  </programme>
+  <programme start="20210226120000 +0200" stop="20210226130000 +0200" channel="ADNATGEO">
+    <title lang="ar">ألعاب العقل مع المشاهير</title>
+    <title lang="ar">12:00  مساءً
+              [60 دقيقة]</title>
+  </programme>
+  <programme start="20210226140000 +0200" stop="20210226150000 +0200" channel="ADNATGEO">
+    <title lang="ar">النمر الأسود الحقيقي</title>
+    <title lang="ar">02:00  مساءً
+              [60 دقيقة]</title>
+  </programme>
+  <programme start="20210226150000 +0200" stop="20210226160000 +0200" channel="ADNATGEO">
+    <title lang="ar">اكتشاف عالم المحيطات الموسم الثاني</title>
+    <title lang="ar">03:00  مساءً
+              [60 دقيقة]</title>
+  </programme>
+  <programme start="20210226160000 +0200" stop="20210226170000 +0200" channel="ADNATGEO">
+    <title lang="ar">تحقيقات الكوارث الجوية</title>
+    <title lang="ar">04:00  مساءً
+              [60 دقيقة]</title>
+  </programme>
+  <programme start="20210226170000 +0200" stop="20210226180000 +0200" channel="ADNATGEO">
+    <title lang="ar">صيادو البرية</title>
+    <title lang="ar">05:00  مساءً
+              [60 دقيقة]</title>
+  </programme>
+  <programme start="20210226180000 +0200" stop="20210226190000 +0200" channel="ADNATGEO">
+    <title lang="ar">تحدي دببة ألاسكا الرمادية</title>
+    <title lang="ar">06:00  مساءً
+              [60 دقيقة]</title>
+  </programme>
+  <programme start="20210226190000 +0200" stop="20210226200000 +0200" channel="ADNATGEO">
+    <title lang="ar">عجائب هندسة البنى الفوقية": "أروع العجائب الهندسية</title>
+    <title lang="ar">07:00  مساءً
+              [60 دقيقة]</title>
+  </programme>
+  <programme start="20210226200000 +0200" stop="20210226210000 +0200" channel="ADNATGEO">
+    <title lang="ar">خطوط ناسكا: أسرار قديمة</title>
+    <title lang="ar">08:00  مساءً
+              [60 دقيقة]</title>
+  </programme>
+  <programme start="20210226210000 +0200" stop="20210226220000 +0200" channel="ADNATGEO">
+    <title lang="ar">أسرار حديقة الحيوان الموسم الثاني</title>
+    <title lang="ar">09:00  مساءً
+              [60 دقيقة]</title>
+  </programme>
+  <programme start="20210226220000 +0200" stop="20210226230000 +0200" channel="ADNATGEO">
+    <title lang="ar">صُنِع في يوم واحد</title>
+    <title lang="ar">10:00  مساءً
+              [60 دقيقة]</title>
+  </programme>
+  <programme start="20210226230000 +0200" stop="20210227000000 +0200" channel="ADNATGEO">
+    <title lang="ar">أوروبا من الأعلى</title>
+    <title lang="ar">11:00  مساءً
+              [60 دقيقة]</title>
+  </programme>
+  <programme start="20210225060000 +0200" stop="20210225073000 +0200" channel="FOX FAMILY MOVIES">
+    <title lang="ar">Marshall's Miracle</title>
+    <title lang="ar">فيلم
+               (2015)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20210225073000 +0200" stop="20210225084500 +0200" channel="FOX FAMILY MOVIES">
+    <title lang="ar">Kung Fu Style</title>
+    <title lang="ar">فيلم
+               (2015)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20210225084500 +0200" stop="20210225103000 +0200" channel="FOX FAMILY MOVIES">
+    <title lang="ar">Bling</title>
+    <title lang="ar">فيلم
+               (2016)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20210225103000 +0200" stop="20210225120000 +0200" channel="FOX FAMILY MOVIES">
+    <title lang="ar">.Monsters, Inc</title>
+    <title lang="ar">فيلم
+               (2001)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20210225120000 +0200" stop="20210225133000 +0200" channel="FOX FAMILY MOVIES">
+    <title lang="ar">Howard Lovecraft &amp; the Undersea Kingdom</title>
+    <title lang="ar">فيلم
+               (2017)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20210225133000 +0200" stop="20210225150000 +0200" channel="FOX FAMILY MOVIES">
+    <title lang="ar">The Princess and the Dragon</title>
+    <title lang="ar">فيلم
+               (2018)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20210225150000 +0200" stop="20210225164500 +0200" channel="FOX FAMILY MOVIES">
+    <title lang="ar">Growing Up Smith</title>
+    <title lang="ar">فيلم
+               (2015)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20210225164500 +0200" stop="20210225181500 +0200" channel="FOX FAMILY MOVIES">
+    <title lang="ar">Spark: A Space Tail</title>
+    <title lang="ar">فيلم
+               (2016)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20210225181500 +0200" stop="20210225194500 +0200" channel="FOX FAMILY MOVIES">
+    <title lang="ar">Stuart Little</title>
+    <title lang="ar">فيلم
+               (1999)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20210225194500 +0200" stop="20210225220000 +0200" channel="FOX FAMILY MOVIES">
+    <title lang="ar">The Karate Kid</title>
+    <title lang="ar">فيلم
+               (2010)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20210225220000 +0200" stop="20210225233000 +0200" channel="FOX FAMILY MOVIES">
+    <title lang="ar">Ratchet and Clank</title>
+    <title lang="ar">فيلم
+               (2016)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20210225233000 +0200" stop="20210226014500 +0200" channel="FOX FAMILY MOVIES">
+    <title lang="ar">Spare Parts</title>
+    <title lang="ar">فيلم
+               (2015)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20210226014500 +0200" stop="20210226031500 +0200" channel="FOX FAMILY MOVIES">
+    <title lang="ar">Marshall's Miracle</title>
+    <title lang="ar">فيلم
+               (2015)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20210226031500 +0200" stop="20210226043000 +0200" channel="FOX FAMILY MOVIES">
+    <title lang="ar">Kung Fu Style</title>
+    <title lang="ar">فيلم
+               (2015)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20210226043000 +0200" stop="20210226060000 +0200" channel="FOX FAMILY MOVIES">
+    <title lang="ar">Bling</title>
+    <title lang="ar">فيلم
+               (2016)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20210226060000 +0200" stop="20210226073000 +0200" channel="FOX FAMILY MOVIES">
+    <title lang="ar">Race to Win</title>
+    <title lang="ar">فيلم
+               (2016)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20210226073000 +0200" stop="20210226084500 +0200" channel="FOX FAMILY MOVIES">
+    <title lang="ar">The Swan Princess</title>
+    <title lang="ar">فيلم
+               (1994)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20210226084500 +0200" stop="20210226103000 +0200" channel="FOX FAMILY MOVIES">
+    <title lang="ar">Tarzan</title>
+    <title lang="ar">فيلم
+               (2013)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20210226103000 +0200" stop="20210226120000 +0200" channel="FOX FAMILY MOVIES">
+    <title lang="ar">The Emoji Movie</title>
+    <title lang="ar">فيلم
+               (2017)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20210226120000 +0200" stop="20210226133000 +0200" channel="FOX FAMILY MOVIES">
+    <title lang="ar">The Borrowers</title>
+    <title lang="ar">فيلم
+               (1997)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20210226133000 +0200" stop="20210226150000 +0200" channel="FOX FAMILY MOVIES">
+    <title lang="ar">Fantastic Journey to Oz</title>
+    <title lang="ar">فيلم
+               (2017)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20210226150000 +0200" stop="20210226163000 +0200" channel="FOX FAMILY MOVIES">
+    <title lang="ar">Hotel Transylvania</title>
+    <title lang="ar">فيلم
+               (2012)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20210226163000 +0200" stop="20210226180000 +0200" channel="FOX FAMILY MOVIES">
+    <title lang="ar">A Christmas Star</title>
+    <title lang="ar">فيلم
+               (2017)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20210226180000 +0200" stop="20210226191500 +0200" channel="FOX FAMILY MOVIES">
+    <title lang="ar">The Snow Queen 2: The Snow King</title>
+    <title lang="ar">فيلم
+               (2014)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20210226191500 +0200" stop="20210226210000 +0200" channel="FOX FAMILY MOVIES">
+    <title lang="ar">Growing Up Smith</title>
+    <title lang="ar">فيلم
+               (2015)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20210226210000 +0200" stop="20210226223000 +0200" channel="FOX FAMILY MOVIES">
+    <title lang="ar">Spark: A Space Tail</title>
+    <title lang="ar">فيلم
+               (2016)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20210226223000 +0200" stop="20210227010000 +0200" channel="FOX FAMILY MOVIES">
+    <title lang="ar">Stuart Little</title>
+    <title lang="ar">فيلم
+               (1999)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20210225200000 +0100" stop="20210225202500 +0100" channel="OLYMPIA FRA">
+    <title lang="fr">Olympiascope</title>
+  </programme>
+  <programme start="20210225202500 +0100" stop="20210225221300 +0100" channel="OLYMPIA FRA">
+    <title lang="fr">Les éternels du rire</title>
+  </programme>
+  <programme start="20210225221300 +0100" stop="20210225235500 +0100" channel="OLYMPIA FRA">
+    <title lang="fr">Guy Bedos à l'Olympia</title>
+  </programme>
+  <programme start="20210225235500 +0100" stop="20210226012400 +0100" channel="OLYMPIA FRA">
+    <title lang="fr">Pierre Palmade : Premiers adieux</title>
+  </programme>
+  <programme start="20210226012400 +0100" stop="20210226200000 +0100" channel="OLYMPIA FRA">
+    <title lang="fr">La chaîne de vos soirées spectacle</title>
+  </programme>
+  <programme start="20210226200000 +0100" stop="20210226203100 +0100" channel="OLYMPIA FRA">
+    <title lang="fr">Olympiascope</title>
+  </programme>
+  <programme start="20210226203100 +0100" stop="20210226231700 +0100" channel="OLYMPIA FRA">
+    <title lang="fr">La vie de Galilée</title>
+  </programme>
+  <programme start="20210226231700 +0100" stop="20210227013600 +0100" channel="OLYMPIA FRA">
+    <title lang="fr">La guerre de Troie n'aura pas lieu</title>
   </programme>
 </tv>
