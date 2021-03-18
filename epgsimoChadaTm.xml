@@ -1,4 +1,4 @@
-﻿<tv guide="http://epgguide.net for more information.">
+<tv guide="http://epgguide.net for more information.">
 <channel id="chadatv.ma">
 <display-name lang="en">Chada tv MA</display-name>
 <icon src=""/>
@@ -262,14 +262,14 @@
 <desc lang="en">
 </desc>
 </programme>
-<programme start="20210315023000 +0100" stop="20210315030000 +0100" channel="chadatv.ma">
-<title lang="en">zoom</title>
+<programme start="20210315023000 +0100" stop="20210315043000 +0100" channel="chadatv.ma">
+<title lang="en">FESTIVAL / CONCERT / SPECTACLE</title>
 <sub-title lang="en"></sub-title>
 <desc lang="en">
 </desc>
 </programme>
 <programme start="20210315043000 +0100" stop="20210315060000 +0100" channel="chadatv.ma">
-<title lang="en">BEST OF CHADA MUSIC PROGRAMES</title>
+<title lang="en">BEST OF CHADA MUSIC PROGRAMMES</title>
 <desc lang="en">
 </desc>
 </programme>
@@ -466,21 +466,23 @@
  
 </desc>
 </programme>
- 
- 
+<programme start="20210317234500 +0100" stop="20210318011500 +0100" channel="chadatv.ma">
+ <title lang="fr">The Kotbi tonight : music culture divertissement </title>
+<desc lang="ar"> </desc>
+</programme>
  
  
  
                                           
 
-<programme start="20210318004500 +0100" stop="20210318011500 +0100" channel="chadatv.ma">
-<title lang="fr">TOP 10 : classement clip music  </title>
+<programme start="20210318011500 +0100" stop="20210318024500 +0100" channel="chadatv.ma">
+<title lang="fr">masaa al khayr ya maghrib-مساء الخير يا مغرب  </title>
 <desc lang="ar">
  بيستعرض كل يوم ترتيب عشر أنجح الأغاني المغربية والعربية، المعروضة بمختلف القنوات العربية و آخر الأخبار الفنية والإصدارات الغنائية على الساحة الفنية بالعالم العربي...
 </desc>
 </programme>
-<programme start="20210318011500 +0100" stop="20210318023000 +0100" channel="chadatv.ma">
-<title lang="fr">The Kotbi tonight : music culture divertissement </title>
+<programme start="20210318024500 +0100" stop="20210318043000 +0100" channel="chadatv.ma">
+<title lang="fr">FOLLOWERS </title>
 <desc lang="ar">
  يستضيف عماد قطبي نجمين او ثلاث نجوم، فنانون، كوميديون، كتاب،مطربون، إعلاميون و رياضيون .عماد يفتتح السهرة بمونولوك، حيث يظهر بشكل كوميدي في تقديم  أخبار ومستجدات الأسبوع.
 </desc>
