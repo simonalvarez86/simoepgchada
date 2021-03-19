@@ -12,7 +12,12 @@
 </channel>
 
 
-                                             
+<programme start="20210320001500 +0100" stop="20210320011500 +0100" channel="chadatv.ma">
+<title lang="en">LE ZAPPING DE CHADA</title>
+<sub-title lang="en"></sub-title>
+<desc lang="en">
+</desc>
+</programme>                                                     
 <programme start="20210320011500 +0100" stop="20210320024500 +0100" channel="chadatv.ma">
 <title lang="fr">Dandana ma'a IMAD : music divertissement </title>
 <desc lang="ar">
@@ -573,6 +578,17 @@
  بيستعرض كل يوم ترتيب عشر أنجح الأغاني المغربية والعربية، المعروضة بمختلف القنوات العربية و آخر الأخبار الفنية والإصدارات الغنائية على الساحة الفنية بالعالم العربي...
 </desc>
 </programme>
+<programme start="20210319120000 +0100" stop="20210319130000 +0100" channel="chadatv.ma">
+<title lang="en">TALK BI LMAGHRIBI</title>
+<sub-title lang="en">Avec Rachid El IDRISSI</sub-title>
+<desc lang="en">
+</desc>
+</programme>
+<programme start="20210319130000 +0100" stop="20210319160000 +0100" channel="chadatv.ma">
+<title lang="en">Clips/ Live Chat SMS/ Flux RSS Infos People</title>
+<desc lang="en">
+</desc>
+</programme>
 <programme start="20210319171500 +0100" stop="20210319174500 +0100" channel="chadatv.ma">
 <title lang="fr">TOP 10 : classement clip music  </title>
 <desc lang="ar">
@@ -596,20 +612,13 @@
  برنامج موسيقي حميمي أسبوعي نستجوب من خلاله الضيوف في جو موسيقي و طربي مباشر من تنشيط النجم التلفزي المغربي عماد النتيفي..
 </desc>
 </programme>
-<programme start="20210319223000 +0100" stop="20210319233000 +0100" channel="chadatv.ma">
-<title lang="en">c'est ma vie</title>
-<sub-title lang="en"></sub-title>
-<desc lang="en">
-</desc>
-</programme>
-<programme start="20210319233000 +0100" stop="20210320000000 +0100" channel="chadatv.ma">
-<title lang="en">A'Amart DAR</title>
+<programme start="20210319223000 +0100" stop="20210320001500 +0100" channel="chadatv.ma">
+<title lang="en">FOLLOWERS</title>
 <sub-title lang="en"></sub-title>
 <desc lang="en">
 </desc>
 </programme>
 
- 
 
 
 
@@ -618,10 +627,9 @@
 
 
 
-
-
-
-                                 
+<programme start="20210320000000 +0100" stop="20210320010000 +0100" channel="telemaroc.ma">
+<title lang="en">SERIE - مسلسل</title>
+</programme>                      
 <programme start="20210320060000 +0100" stop="20210320070000 +0100" channel="telemaroc.ma">
 <title lang="en">Dar Diafa: Culture </title>
 </programme>
@@ -758,8 +766,11 @@
 <programme start="20210319090000 +0100" stop="20210319110000 +0100" channel="telemaroc.ma">
 <title lang="fr">Sbahkom Mabrouk-Magazine </title>
 </programme>
-<programme start="20210319130000 +0100" stop="20210319133000 +0100" channel="telemaroc.ma">
-<title lang="fr">نشرة الظهيرة-information </title>
+<programme start="20210319120000 +0100" stop="20210319123000 +0100" channel="telemaroc.ma">
+<title lang="fr">نشرة الظهيرة - Information </title>
+</programme>
+<programme start="20210319133000 +0100" stop="20210319140000 +0100" channel="telemaroc.ma">
+<title lang="fr">كليسة رياضية - Magazine Sportif</title>
 </programme>
 <programme start="20210319183000 +0100" stop="20210319185000 +0100" channel="telemaroc.ma">
 <title lang="fr">من والو-Magazine </title>
