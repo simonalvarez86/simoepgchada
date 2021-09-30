@@ -1,0 +1,72 @@
+<tv guide="http://epgguide.net for more information.">
+<channel id="BeinSportsPremium1.qa">
+<display-name lang="en">BEIN SPORTS PREMIUM 1</display-name>
+<icon src=""/>
+<url>http://www.elcinema.com</url>
+</channel>
+
+<channel id="BeinSportsPremium2.qa">
+<display-name lang="en">BEIN SPORTS PREMIUM 2</display-name>
+<icon src=""/>
+<url>http://www.elcinema.com</url>
+</channel>
+
+<channel id="BeinSportsPremium3.qa">
+<display-name lang="en">BEIN SPORTS PREMIUM 3</display-name>
+<icon src=""/>
+<url>http://www.elcinema.com</url>
+</channel>
+
+<programme start="20210930205800 +0000" stop="20210930231500 +0000" channel="BeinSportsPremium1.qa">
+<title lang="en">Tottenham vs Mura - UEFA Europa Conference League 2021/2022 MD2</title>
+<desc lang="en">
+Rajab, a poor young man, becomes the centre of attention after buying a new car. He faces funny situations with his neighbours who are curious about his car.
+</desc>
+<credits>
+<director>Said Azar</director>
+<actor>Abdelilah Ajil</actor>
+<actor>Mohamed Metwakel</actor>
+<actor>Faisal Azizi</actor>
+<actor>Fatema Al Zahra Lahrsh</actor>
+<actor>Manal Amen</actor>
+<actor>Jalila Tlemsi</actor>
+</credits>
+<category lang="en">Film</category>
+<category lang="en">Drama</category>
+</programme>
+<programme start="20210930231500 +0000" stop="20210930235800 +0000" channel="BeinSportsPremium1.qa">
+<title lang="en">UEFA Highlights Show MD2</title>
+<sub-title lang="en"></sub-title>
+<desc lang="en">
+
+</desc>
+<credits>
+<director>Munssef Malzi</director>
+</credits>
+<category lang="en">Documentary</category>
+<category lang="en">Factual Entertainment</category>
+</programme>
+
+
+
+<programme start="20210930205800 +0000" stop="20210930231500 +0000" channel="BeinSportsPremium2.qa">
+<title lang="fr">West Ham United vs Rapid Wien - UEFA Europa League 2021/22 Matchday 2
+ </title>
+</programme>
+<programme start="20210930231500 +0000" stop="20210930233000 +0000" channel="BeinSportsPremium2.qa">
+<title lang="fr">Chelsea vs Man City - English Premier League 2021/22 Mini Match
+</title>
+<desc lang="fr">
+
+</desc>
+</programme>
+
+
+
+<programme start="20210930205800 +0000" stop="20210930231500  +0000" channel="BeinSportsPremium3.qa">
+<title lang="fr">Olympique de Marseille vs Galatasaray - UEFA Europa League 2021/22 Matchday 2</title>
+</programme>
+<programme start="20210930231500 +0000" stop="20210930235000 +0000" channel="BeinSportsPremium3.qa">
+<title lang="fr">International Swimming league 2021 - Event 11 – Day 1</title>
+</programme>
+</tv>
