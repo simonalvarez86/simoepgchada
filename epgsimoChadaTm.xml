@@ -11,65 +11,70 @@
 <url>http://www.elcinema.com</url>
 </channel>
 
+<channel id="medi1tvm.ma">
+<display-name lang="en">Medi1 tv MA</display-name>
+<icon src=""/>
+<url>http://www.elcinema.com</url>
+</channel>
 
-<programme start="20210925001500 +0100" stop="20210925011500 +0100" channel="chadatv.ma">
+<programme start="20230225001500 +0100" stop="20230225011500 +0100" channel="chadatv.ma">
 <title lang="en">LE ZAPPING DE CHADA</title>
 <sub-title lang="en"></sub-title>
 <desc lang="en">
 </desc>
 </programme>                                                     
-<programme start="20210925011500 +0100" stop="20210925024500 +0100" channel="chadatv.ma">
+<programme start="20230225011500 +0100" stop="20230225024500 +0100" channel="chadatv.ma">
 <title lang="fr">Dandana ma'a IMAD : music divertissement </title>
 <desc lang="ar">
  برنامج موسيقي حميمي أسبوعي نستجوب من خلاله الضيوف في جو موسيقي و طربي مباشر من تنشيط النجم التلفزي المغربي عماد النتيفي..
 </desc>
 </programme>
-<programme start="20210925024500 +0100" stop="20210925033000 +0100" channel="chadatv.ma">
+<programme start="20230225024500 +0100" stop="20230225033000 +0100" channel="chadatv.ma">
 <title lang="fr">masaa al khayr ya maghrib - مساء الخير يا مغرب    </title>
 <desc lang="ar">
  
 </desc>
 </programme>
-<programme start="20210925033000 +0100" stop="20210925050000 +0100" channel="chadatv.ma">
+<programme start="20230225033000 +0100" stop="20230225050000 +0100" channel="chadatv.ma">
 <title lang="fr">Dandana ma'a IMAD : music divertissement  </title>
 <desc lang="ar">
  برنامج موسيقي حميمي أسبوعي نستجوب من خلاله الضيوف في جو موسيقي و طربي مباشر من تنشيط النجم التلفزي المغربي عماد النتيفي
 </desc>
 </programme>
-<programme start="20210925050000 +0100" stop="20210925070000 +0100" channel="chadatv.ma">
+<programme start="20230225050000 +0100" stop="20230225070000 +0100" channel="chadatv.ma">
 <title lang="en">Clips/ Live Chat SMS/ Flux RSS Infos People</title>
 <desc lang="en">
 </desc>
 </programme>
-<programme start="20210925123000 +0100" stop="20210925170000 +0100" channel="chadatv.ma">
+<programme start="20230225123000 +0100" stop="20230225170000 +0100" channel="chadatv.ma">
 <title lang="en">Clips/ Live Chat SMS/ Flux RSS Infos People</title>
 <desc lang="en">
 </desc>
 </programme>
-<programme start="20210925170000 +0100" stop="20210925180000 +0100" channel="chadatv.ma">
+<programme start="20230225170000 +0100" stop="20230225180000 +0100" channel="chadatv.ma">
 <title lang="en">A'Amart DAR</title>
 <sub-title lang="en"></sub-title>
 <desc lang="en">
 </desc>
 </programme>
-<programme start="20210925181500 +0100" stop="20210925203000 +0100" channel="chadatv.ma">
+<programme start="20230225181500 +0100" stop="20230225203000 +0100" channel="chadatv.ma">
 <title lang="en">Clips/ Live Chat SMS/ Flux RSS Infos People</title>
 <desc lang="en">
 </desc>
 </programme>
-<programme start="20210925203000 +0100" stop="20210925205000 +0100" channel="chadatv.ma">
+<programme start="20230225203000 +0100" stop="20230225205000 +0100" channel="chadatv.ma">
 <title lang="fr">CHADA COVER divertissement </title>
 <desc lang="ar">
  
 </desc>
 </programme>
-<programme start="20210925205000 +0100" stop="20210925210000 +0100" channel="chadatv.ma">
+<programme start="20230225205000 +0100" stop="20230225210000 +0100" channel="chadatv.ma">
 <title lang="fr">LES INQUALIFIABLES - ضحك تخسر ! -humour divertissement </title>
 <desc lang="ar">
  
 </desc>
 </programme>
-<programme start="20210925210000 +0100" stop="20210925213000 +0100" channel="chadatv.ma">
+<programme start="20230225210000 +0100" stop="20230225213000 +0100" channel="chadatv.ma">
 <title lang="en">zoom</title>
 <sub-title lang="en"></sub-title>
 <desc lang="en">
@@ -80,13 +85,13 @@
 <category lang="en">Documentary</category>
 <category lang="en">Factual Entertainment</category>
 </programme>
-<programme start="20210925213000 +0100" stop="20210925230000 +0100" channel="chadatv.ma">
+<programme start="20230225213000 +0100" stop="20230225230000 +0100" channel="chadatv.ma">
 <title lang="fr">The Kotbi tonight : music culture divertissement </title>
 <desc lang="ar">
  يستضيف عماد قطبي نجمين او ثلاث نجوم، فنانون، كوميديون، كتاب،مطربون، إعلاميون و رياضيون .عماد يفتتح السهرة بمونولوك، حيث يظهر بشكل كوميدي في تقديم  أخبار ومستجدات الأسبوع.
 </desc>
 </programme>
-<programme start="20210925230000 +0100" stop="20210926004000 +0100" channel="chadatv.ma">
+<programme start="20230225230000 +0100" stop="20230226004000 +0100" channel="chadatv.ma">
 <title lang="fr">Dandana ma'a IMAD : music divertissement </title>
 <desc lang="ar">
  برنامج موسيقي حميمي أسبوعي نستجوب من خلاله الضيوف في جو موسيقي و طربي مباشر من تنشيط النجم التلفزي المغربي عماد النتيفي
@@ -99,166 +104,166 @@
 
 
                                      
-<programme start="20210926004000 +0100" stop="20210926010000 +0100" channel="chadatv.ma">
+<programme start="20230226004000 +0100" stop="20230226010000 +0100" channel="chadatv.ma">
 <title lang="fr">CHADA Cover : music divertissement </title>
 <desc lang="ar">
     الكوفر ظاهرة فنية عالمية جديدة .اكتشاف أداء فريد ومتميز لفنانين مدعوين على بلاطو البرنامج ليقدمو لنا فرجة غنية و ممتعة....
 </desc>
 </programme>
-<programme start="20210926010000 +0100" stop="20210926011500 +0100" channel="chadatv.ma">
+<programme start="20230226010000 +0100" stop="20230226011500 +0100" channel="chadatv.ma">
 <title lang="fr">LES INQUALIFIABLES - ضحك تخسر ! -humour divertissement </title>
 <desc lang="ar">
  
 </desc>
 </programme>
-<programme start="20210926011500 +0100" stop="20210926024500 +0100" channel="chadatv.ma">
+<programme start="20230226011500 +0100" stop="20230226024500 +0100" channel="chadatv.ma">
 <title lang="fr">The Kotbi tonight : music culture divertissement </title>
 <desc lang="ar">
  يستضيف عماد قطبي نجمين او ثلاث نجوم، فنانون، كوميديون، كتاب،مطربون، إعلاميون و رياضيون .عماد يفتتح السهرة بمونولوك، حيث يظهر بشكل كوميدي في تقديم  أخبار ومستجدات الأسبوع.
 </desc>
 </programme>
-<programme start="20210926024500 +0100" stop="20210926043000 +0100" channel="chadatv.ma">
+<programme start="20230226024500 +0100" stop="20230226043000 +0100" channel="chadatv.ma">
 <title lang="fr">Dandana ma'a IMAD : music divertissement </title>
 <desc lang="ar">
  برنامج موسيقي حميمي أسبوعي نستجوب من خلاله الضيوف في جو موسيقي و طربي مباشر من تنشيط النجم التلفزي المغربي عماد النتيفي..
 </desc>
 </programme>
-<programme start="20210926043000 +0100" stop="20210926060000 +0100" channel="chadatv.ma">
+<programme start="20230226043000 +0100" stop="20230226060000 +0100" channel="chadatv.ma">
 <title lang="en">BEST OF CHADA MUSIC PROGRAMMES</title>
 <desc lang="en">
 </desc>
 </programme>
-<programme start="20210926060000 +0100" stop="20210926090000 +0100" channel="chadatv.ma">
+<programme start="20230226060000 +0100" stop="20230226090000 +0100" channel="chadatv.ma">
 <title lang="en">Clips/ Live Chat SMS/ Flux RSS Infos People</title>
 <desc lang="en">
 </desc>
 </programme>
-<programme start="20210926090000 +0100" stop="20210926100000 +0100" channel="chadatv.ma">
+<programme start="20230226090000 +0100" stop="20230226100000 +0100" channel="chadatv.ma">
 <title lang="fr">RADAR  </title>
 <desc lang="ar">
     الرادار برنامج ترفيهي إخباري جديد هو الأول من نوعه بالمنطقة المغاربية، يقدم مجموعة من الفقرات الإخبارية الفنية والترفيهية، عبر تغطية حصرية للصناعة الترفيهية ومتابعة مستمرة لأخبار المشاهير والأفلام السينمائية وكذا الأعمال المسرحية، والإنتاجات التلفزيونية والموسيقية....
 </desc>
 </programme>
-<programme start="20210926100000 +0100" stop="20210926101500 +0100" channel="chadatv.ma">
+<programme start="20230226100000 +0100" stop="20230226101500 +0100" channel="chadatv.ma">
 <title lang="en">Chada Style - Capsule Mode</title>
 <desc lang="en">
 </desc>
 </programme>
-<programme start="20210926101500 +0100" stop="20210926103000 +0100" channel="chadatv.ma">
+<programme start="20230226101500 +0100" stop="20230226103000 +0100" channel="chadatv.ma">
 <title lang="en">Chada Asks</title>
 <desc lang="en">
 </desc>
 </programme>
-<programme start="20210926103000 +0100" stop="20210926120000 +0100" channel="chadatv.ma">
+<programme start="20230226103000 +0100" stop="20230226120000 +0100" channel="chadatv.ma">
 <title lang="en">Clips/ Live Chat SMS/ Flux RSS Infos People</title>
 <desc lang="en">
 </desc>
 </programme>
-<programme start="20210926120000 +0100" stop="20210926121500 +0100" channel="chadatv.ma">
+<programme start="20230226120000 +0100" stop="20230226121500 +0100" channel="chadatv.ma">
 <title lang="en">Tadawak ma'a Chada-Capsule culinaire</title>
 <desc lang="en">
 </desc>
 </programme>
-<programme start="20210926121500 +0100" stop="20210926123000 +0100" channel="chadatv.ma">
+<programme start="20230226121500 +0100" stop="20230226123000 +0100" channel="chadatv.ma">
 <title lang="en">Chada Asks</title>
 <desc lang="en">
 </desc>
 </programme>
-<programme start="20210926123000 +0100" stop="20210926140000 +0100" channel="chadatv.ma">
+<programme start="20230226123000 +0100" stop="20230226140000 +0100" channel="chadatv.ma">
 <title lang="en">Clips/ Live Chat SMS/ Flux RSS Infos People</title>
 <desc lang="en">
 </desc>
 </programme>
-<programme start="20210926140000 +0100" stop="20210926141500 +0100" channel="chadatv.ma">
+<programme start="20230226140000 +0100" stop="20230226141500 +0100" channel="chadatv.ma">
 <title lang="en">تذوق مع شدى -Capsule culinaire</title>
 <desc lang="en">
 </desc>
 </programme>
-<programme start="20210926141500 +0100" stop="20210926143000 +0100" channel="chadatv.ma">
+<programme start="20230226141500 +0100" stop="20230226143000 +0100" channel="chadatv.ma">
 <title lang="en">Chada Asks</title>
 <desc lang="en">
 </desc>
 </programme>
-<programme start="20210926143000 +0100" stop="20210926160000 +0100" channel="chadatv.ma">
+<programme start="20230226143000 +0100" stop="20230226160000 +0100" channel="chadatv.ma">
 <title lang="en">Clips/ Live Chat SMS/ Flux RSS Infos People</title>
 <desc lang="en">
 </desc>
 </programme>
-<programme start="20210926160000 +0100" stop="20210926161500 +0100" channel="chadatv.ma">
+<programme start="20230226160000 +0100" stop="20230226161500 +0100" channel="chadatv.ma">
 <title lang="en">دقائق للرياضة-Capsule Sport</title>
 <desc lang="en">
 </desc>
 </programme>
-<programme start="20210926161500 +0100" stop="20210926163000 +0100" channel="chadatv.ma">
+<programme start="20230226161500 +0100" stop="20230226163000 +0100" channel="chadatv.ma">
 <title lang="en">Chada Asks</title>
 <desc lang="en">
 </desc>
 </programme>
-<programme start="20210926163000 +0100" stop="20210926180000 +0100" channel="chadatv.ma">
+<programme start="20230226163000 +0100" stop="20230226180000 +0100" channel="chadatv.ma">
 <title lang="en">Clips/ Live Chat SMS/ Flux RSS Infos People</title>
 <desc lang="en">
 </desc>
 </programme>
-<programme start="20210926180000 +0100" stop="20210926181500 +0100" channel="chadatv.ma">
+<programme start="20230226180000 +0100" stop="20230226181500 +0100" channel="chadatv.ma">
 <title lang="en">Chada Asks</title>
 <desc lang="en">
 </desc>
 </programme>
-<programme start="20210926181500 +0100" stop="20210926200000 +0100" channel="chadatv.ma">
+<programme start="20230226181500 +0100" stop="20230226200000 +0100" channel="chadatv.ma">
 <title lang="en">Clips/ Live Chat SMS/ Flux RSS Infos People</title>
 <desc lang="en">
 </desc>
 </programme>
-<programme start="20210926200000 +0100" stop="20210926201500 +0100" channel="chadatv.ma">
+<programme start="20230226200000 +0100" stop="20230226201500 +0100" channel="chadatv.ma">
 <title lang="en">فن الحياة-Capsule bien etre</title>
 <desc lang="en">
 </desc>
 </programme>
-<programme start="20210926201500 +0100" stop="20210926203000 +0100" channel="chadatv.ma">
+<programme start="20230226201500 +0100" stop="20230226203000 +0100" channel="chadatv.ma">
 <title lang="en">Chada Asks</title>
 <desc lang="en">
 </desc>
 </programme>
-<programme start="20210926200000 +0100" stop="20210926203000 +0100" channel="chadatv.ma">
+<programme start="20230226200000 +0100" stop="20230226203000 +0100" channel="chadatv.ma">
 <title lang="en">Clips/ Live Chat SMS/ Flux RSS Infos People</title>
 <desc lang="en">
 </desc>
 </programme>
-<programme start="20210926203000 +0100" stop="20210926205000 +0100" channel="chadatv.ma">
+<programme start="20230226203000 +0100" stop="20230226205000 +0100" channel="chadatv.ma">
 <title lang="en">CHADA COVER</title>
 <desc lang="ar">
  الكوفر ظاهرة فنية عالمية جديدة .اكتشاف أداء فريد ومتميز لفنانين مدعوين على بلاطو البرنامج ليقدمو لنا فرجة غنية و ممتعة....
 </desc>
 </programme>
-<programme start="20210926205000 +0100" stop="20210926210000 +0100" channel="chadatv.ma">
+<programme start="20230226205000 +0100" stop="20230226210000 +0100" channel="chadatv.ma">
 <title lang="fr">LES INQUALIFIABLES - !ضحك تخسر humour divertissement </title>
 <desc lang="ar">
 </desc>
 </programme>
-<programme start="20210926210000 +0100" stop="20210926220000 +0100" channel="chadatv.ma">
+<programme start="20230226210000 +0100" stop="20230226220000 +0100" channel="chadatv.ma">
 <title lang="en">TALK BI LMAGHRIBI</title>
 <sub-title lang="en">Avec Rachid El IDRISSI</sub-title>
 <desc lang="en">
 </desc>
 </programme>
-<programme start="20210926220000 +0100" stop="20210926223000 +0100" channel="chadatv.ma">
+<programme start="20230226220000 +0100" stop="20230226223000 +0100" channel="chadatv.ma">
 <title lang="en">c'est ma vie</title>
 <sub-title lang="en"></sub-title>
 <desc lang="en">
 </desc>
 </programme>
-<programme start="20210926223000 +0100" stop="20210926230000 +0100" channel="chadatv.ma">
+<programme start="20230226223000 +0100" stop="20230226230000 +0100" channel="chadatv.ma">
 <title lang="fr">CHADA Cover : music divertissement </title>
 <desc lang="ar">
     الكوفر ظاهرة فنية عالمية جديدة .اكتشاف أداء فريد ومتميز لفنانين مدعوين على بلاطو البرنامج ليقدمو لنا فرجة غنية و ممتعة....
 </desc>
 </programme>
-<programme start="20210926230000 +0100" stop="20210926231500 +0100" channel="chadatv.ma">
+<programme start="20230226230000 +0100" stop="20230226231500 +0100" channel="chadatv.ma">
 <title lang="en">Clips/ Live Chat SMS/ Flux RSS Infos People</title>
 <desc lang="en">
 </desc>
 </programme>
-<programme start="20210926231500 +0100" stop="20210927000000 +0100" channel="chadatv.ma">
+<programme start="20230226231500 +0100" stop="20230227000000 +0100" channel="chadatv.ma">
 <title lang="fr">The Kotbi Tonight : music culture divertissement </title>
 <desc lang="ar">
  يستضيف عماد قطبي نجمين او ثلاث نجوم، فنانون، كوميديون، كتاب،مطربون، إعلاميون و رياضيون .عماد يفتتح السهرة بمونولوك، حيث يظهر بشكل كوميدي في تقديم  أخبار ومستجدات الأسبوع.
@@ -271,88 +276,89 @@
 
 
                                               
-<programme start="20210927000000 +0100" stop="20210927003000 +0100" channel="chadatv.ma">
+<programme start="20230227000000 +0100" stop="20230227003000 +0100" channel="chadatv.ma">
 <title lang="en">A'Amart DAR</title>
 <sub-title lang="en"></sub-title>
 <desc lang="en">
 </desc>
 </programme>
-<programme start="20210927003000 +0100" stop="20210927010000 +0100" channel="chadatv.ma">
+<programme start="20230227003000 +0100" stop="20230227010000 +0100" channel="chadatv.ma">
 <title lang="fr">CHADA Cover : music divertissement </title>
 <desc lang="ar">
     الكوفر ظاهرة فنية عالمية جديدة .اكتشاف أداء فريد ومتميز لفنانين مدعوين على بلاطو البرنامج ليقدمو لنا فرجة غنية و ممتعة....
 </desc>
 </programme>
-<programme start="20210927010000 +0100" stop="20210927023000 +0100" channel="chadatv.ma">
+<programme start="20230227010000 +0100" stop="20230227023000 +0100" channel="chadatv.ma">
 <title lang="en">TALK BI LMAGHRIBI</title>
 <sub-title lang="en">Avec Rachid El IDRISSI</sub-title>
 <desc lang="en">
 </desc>
 </programme>
-<programme start="20210927023000 +0100" stop="20210927043000 +0100" channel="chadatv.ma">
+<programme start="20230227023000 +0100" stop="20230227043000 +0100" channel="chadatv.ma">
 <title lang="en">FESTIVAL / CONCERT / SPECTACLE</title>
 <sub-title lang="en"></sub-title>
 <desc lang="en">
 </desc>
 </programme>
-<programme start="20210927043000 +0100" stop="20210927060000 +0100" channel="chadatv.ma">
+<programme start="20230227043000 +0100" stop="20230227060000 +0100" channel="chadatv.ma">
 <title lang="en">BEST OF CHADA MUSIC PROGRAMMES</title>
 <desc lang="en">
 </desc>
 </programme>
-<programme start="20210927060000 +0100" stop="20210927080000 +0100" channel="chadatv.ma">
+<programme start="20230227060000 +0100" stop="20230227080000 +0100" channel="chadatv.ma">
 <title lang="en">Clips/ Live Chat SMS/ Flux RSS Infos People</title>
 <desc lang="en">
 </desc>
 </programme>
-<programme start="20210927080000 +0100" stop="20210927083000 +0100" channel="chadatv.ma">
+<programme start="20230227080000 +0100" stop="20230227083000 +0100" channel="chadatv.ma">
 <title lang="fr">TOP 10 : classement clip music  </title>
 <desc lang="ar">
  بيستعرض كل يوم ترتيب عشر أنجح الأغاني المغربية والعربية، المعروضة بمختلف القنوات العربية و آخر الأخبار الفنية والإصدارات الغنائية على الساحة الفنية بالعالم العربي...
 </desc>
 </programme>
-<programme start="20210927083000 +0100" stop="20210927100000 +0100" channel="chadatv.ma">
+<programme start="20230227083000 +0100" stop="20230227100000 +0100" channel="chadatv.ma">
 <title lang="fr">Dandana ma'a IMAD : music divertissement </title>
 <desc lang="ar">
  برنامج موسيقي حميمي أسبوعي نستجوب من خلاله الضيوف في جو موسيقي و طربي مباشر من تنشيط النجم التلفزي المغربي عماد النتيفي..
 </desc>
 </programme>
-<programme start="20210927123000 +0100" stop="20210927151500 +0100" channel="chadatv.ma">
+<programme start="20230227123000 +0100" stop="20230227151500 +0100" channel="chadatv.ma">
 <title lang="fr">Clips/ Live Chat SMS/ Flux RSS Infos People  </title>
 <desc lang="ar">
  بيستعرض كل يوم ترتيب عشر أنجح الأغاني المغربية والعربية، المعروضة بمختلف القنوات العربية و آخر الأخبار الفنية والإصدارات الغنائية على الساحة الفنية بالعالم العربي...
 </desc>
 </programme>
-<programme start="20210927151500 +0100" stop="20210927174500 +0100" channel="chadatv.ma">
+<programme start="20230227151500 +0100" stop="20230227174500 +0100" channel="chadatv.ma">
 <title lang="fr">Clips/ Live Chat SMS/ Flux RSS Infos People  </title>
 <desc lang="ar">
  بيستعرض كل يوم ترتيب عشر أنجح الأغاني المغربية والعربية، المعروضة بمختلف القنوات العربية و آخر الأخبار الفنية والإصدارات الغنائية على الساحة الفنية بالعالم العربي...
 </desc>
 </programme>
-<programme start="20210927174500 +0100" stop="20210927190000 +0100" channel="chadatv.ma">
+<programme start="20230227174500 +0100" stop="20230227190000 +0100" channel="chadatv.ma">
 <title lang="en">Clips/ Live Chat SMS/ Flux RSS Infos People</title>
 <desc lang="en">
 </desc>
 </programme>
-<programme start="20210927203000 +0100" stop="20210927210000 +0100" channel="chadatv.ma">
-<title lang="fr">TOP 10 : classement clip music  </title>
+<programme start="20230227203000 +0100" stop="20230227213000 +0100" channel="chadatv.ma">
+<title lang="fr">masa'a lkhayr ya maghrib </title>
 <desc lang="ar">
- بيستعرض كل يوم ترتيب عشر أنجح الأغاني المغربية والعربية، المعروضة بمختلف القنوات العربية و آخر الأخبار الفنية والإصدارات الغنائية على الساحة الفنية بالعالم العربي...
+ 
+
 </desc>
 </programme>                                    
-<programme start="20210927210000 +0100" stop="20210927213000 +0100" channel="chadatv.ma">
-<title lang="en">c'est ma vie</title>
+<programme start="20230227210000 +0100" stop="20230227223000 +0100" channel="chadatv.ma">
+<title lang="en">100 % VAR</title>
 <sub-title lang="en"></sub-title>
 <desc lang="en">
 </desc>
 </programme>
-<programme start="20210927213000 +0100" stop="20210927230000 +0100" channel="chadatv.ma">
+<programme start="20230227223000 +0100" stop="20230227230000 +0100" channel="chadatv.ma">
 <title lang="fr">HBAB RABAB- حباب رباب </title>
 <desc lang="ar">
     
 </desc>
 </programme>
-<programme start="20210927230000 +0100" stop="20210928003000 +0100" channel="chadatv.ma">
+<programme start="20230227230000 +0100" stop="20230228003000 +0100" channel="chadatv.ma">
 <title lang="fr">FOLLOWERS </title>
 <desc lang="ar">
     
@@ -366,80 +372,80 @@
 
 
  
-<programme start="20210928003000 +0100" stop="20210928020000 +0100" channel="chadatv.ma">
+<programme start="20230228003000 +0100" stop="20230228020000 +0100" channel="chadatv.ma">
 <title lang="fr">Dandana ma'a IMAD : music divertissement </title>
 <desc lang="ar">
  برنامج موسيقي حميمي أسبوعي نستجوب من خلاله الضيوف في جو موسيقي و طربي مباشر من تنشيط النجم التلفزي المغربي عماد النتيفي..
 </desc>
 </programme>
-<programme start="20210928020000 +0100" stop="20210928033000 +0100" channel="chadatv.ma">
+<programme start="20230228020000 +0100" stop="20230228033000 +0100" channel="chadatv.ma">
 <title lang="fr">HBAB RABAB- حباب رباب  </title>
 <desc lang="ar">
 </desc>
 </programme>
-<programme start="20210928033000 +0100" stop="20210928043000 +0100" channel="chadatv.ma">
+<programme start="20230228033000 +0100" stop="20230228043000 +0100" channel="chadatv.ma">
 <title lang="fr">Dandana ma'a IMAD : music divertissement </title>
 <desc lang="ar">
  برنامج موسيقي حميمي أسبوعي نستجوب من خلاله الضيوف في جو موسيقي و طربي مباشر من تنشيط النجم التلفزي المغربي عماد النتيفي..
 </desc>
 </programme>
-<programme start="20210928043000 +0100" stop="20210928060000 +0100" channel="chadatv.ma">
+<programme start="20230228043000 +0100" stop="20230228060000 +0100" channel="chadatv.ma">
 <title lang="en">BEST OF CHADA MUSIC PROGRAMMES</title>
 <desc lang="en">
 </desc>
 </programme>
-<programme start="20210928060000 +0100" stop="20210928080000 +0100" channel="chadatv.ma">
+<programme start="20230228060000 +0100" stop="20230228080000 +0100" channel="chadatv.ma">
 <title lang="en">Clips/ Live Chat SMS/ Flux RSS Infos People</title>
 <desc lang="en">
 </desc>
 </programme>
-<programme start="20210928080000 +0100" stop="20210928083000 +0100" channel="chadatv.ma">
+<programme start="20230228080000 +0100" stop="20230228083000 +0100" channel="chadatv.ma">
 <title lang="fr">TOP 10 : classement clip music  </title>
 <desc lang="ar">
  بيستعرض كل يوم ترتيب عشر أنجح الأغاني المغربية والعربية، المعروضة بمختلف القنوات العربية و آخر الأخبار الفنية والإصدارات الغنائية على الساحة الفنية بالعالم العربي...
 </desc>
 </programme>
-<programme start="20210928123000 +0100" stop="20210928173000 +0100" channel="chadatv.ma">
+<programme start="20230228123000 +0100" stop="20230228173000 +0100" channel="chadatv.ma">
 <title lang="en">Clips/ Live Chat SMS/ Flux RSS Infos People</title>
 <desc lang="en">
 </desc>
 </programme>
-<programme start="20210928171500 +0100" stop="20210928174500 +0100" channel="chadatv.ma">
+<programme start="20230228171500 +0100" stop="20230228174500 +0100" channel="chadatv.ma">
 <title lang="fr">TOP 10 : classement clip music  </title>
 <desc lang="ar">
  بيستعرض كل يوم ترتيب عشر أنجح الأغاني المغربية والعربية، المعروضة بمختلف القنوات العربية و آخر الأخبار الفنية والإصدارات الغنائية على الساحة الفنية بالعالم العربي...
 </desc>
 </programme>
-<programme start="20210928174500 +0100" stop="20210928190000 +0100" channel="chadatv.ma">
+<programme start="20230228174500 +0100" stop="20230228190000 +0100" channel="chadatv.ma">
 <title lang="en">Clips/ Live Chat SMS/ Flux RSS Infos People</title>
 <desc lang="en">
 </desc>
 </programme>
-<programme start="20210928200000 +0100" stop="20210928203000 +0100" channel="chadatv.ma">
+<programme start="20230228200000 +0100" stop="20230228203000 +0100" channel="chadatv.ma">
 <title lang="fr">masaa al khayr ya maghrib - مساء الخير يا مغرب    </title>
 <desc lang="ar">
  
 </desc>
 </programme>
-<programme start="20210928203000 +0100" stop="20210928210000 +0100" channel="chadatv.ma">
+<programme start="20230228203000 +0100" stop="20230228210000 +0100" channel="chadatv.ma">
 <title lang="fr">TOP 10 : classement clip music  </title>
 <desc lang="ar">
  بيستعرض كل يوم ترتيب عشر أنجح الأغاني المغربية والعربية، المعروضة بمختلف القنوات العربية و آخر الأخبار الفنية والإصدارات الغنائية على الساحة الفنية بالعالم العربي...
 </desc>
 </programme>
-<programme start="20210928210000 +0100" stop="20210928220000 +0100" channel="chadatv.ma">
+<programme start="20230228210000 +0100" stop="20230228220000 +0100" channel="chadatv.ma">
 <title lang="fr">RADAR  </title>
 <desc lang="ar">
     الرادار برنامج ترفيهي إخباري جديد هو الأول من نوعه بالمنطقة المغاربية، يقدم مجموعة من الفقرات الإخبارية الفنية والترفيهية، عبر تغطية حصرية للصناعة الترفيهية ومتابعة مستمرة لأخبار المشاهير والأفلام السينمائية وكذا الأعمال المسرحية، والإنتاجات التلفزيونية والموسيقية....
 </desc>
 </programme>
-<programme start="20210928220000 +0100" stop="20210928230000 +0100" channel="chadatv.ma">
-<title lang="en">TALK BI LMAGHRIBI</title>
-<sub-title lang="en">Avec Rachid El IDRISSI</sub-title>
+<programme start="20230228220000 +0100" stop="20230228230000 +0100" channel="chadatv.ma">
+<title lang="en">masa'a lkhayr ya maghrib</title>
+<sub-title lang="en"> </sub-title>
 <desc lang="en">
 </desc>
 </programme>
-<programme start="20210928230000 +0100" stop="20210929000000 +0100" channel="chadatv.ma">
+<programme start="20230228230000 +0100" stop="20230301000000 +0100" channel="chadatv.ma">
 <title lang="fr">TALK BI LMAGHRIBI - Avec Rachid El IDRISSI </title>
 <desc lang="ar">
     الرادار برنامج ترفيهي إخباري جديد هو الأول من نوعه بالمنطقة المغاربية، يقدم مجموعة من الفقرات الإخبارية الفنية والترفيهية، عبر تغطية حصرية للصناعة الترفيهية ومتابعة مستمرة لأخبار المشاهير والأفلام السينمائية وكذا الأعمال المسرحية، والإنتاجات التلفزيونية والموسيقية....
@@ -453,68 +459,68 @@
                                           
 										  
 										  
-<programme start="20210929000000 +0100" stop="20210929013000 +0100" channel="chadatv.ma">
+<programme start="20230301000000 +0100" stop="20230301013000 +0100" channel="chadatv.ma">
 <title lang="fr">HBAB RABAB- حباب رباب   </title>
 <desc lang="ar">
 </desc>
 </programme>											  
-<programme start="20210929033000 +0100" stop="20210929043000 +0100" channel="chadatv.ma">
+<programme start="20230301033000 +0100" stop="20230301043000 +0100" channel="chadatv.ma">
 <title lang="fr">masaa al khayr ya maghrib - مساء الخير يا مغرب   </title>
 <desc lang="ar">
 </desc>
 </programme>										  
-<programme start="20210929043000 +0100" stop="20210929053000 +0100" channel="chadatv.ma">
+<programme start="20230301043000 +0100" stop="20230301053000 +0100" channel="chadatv.ma">
 <title lang="fr">LE ZAPPING DE CHADA  </title>
 <desc lang="ar">
  بيستعرض كل يوم ترتيب عشر أنجح الأغاني المغربية والعربية، المعروضة بمختلف القنوات العربية و آخر الأخبار الفنية والإصدارات الغنائية على الساحة الفنية بالعالم العربي...
 </desc>
 </programme>
-<programme start="20210929053000 +0100" stop="20210929070000 +0100" channel="chadatv.ma">
+<programme start="20230301053000 +0100" stop="20230301070000 +0100" channel="chadatv.ma">
 <title lang="en">HBAB RABAB - حباب رباب</title>
 <desc lang="en">
 </desc>
 </programme>
-<programme start="20210929060000 +0100" stop="20210929080000 +0100" channel="chadatv.ma">
+<programme start="20230301060000 +0100" stop="20230301080000 +0100" channel="chadatv.ma">
 <title lang="en">Clips/ Live Chat SMS/ Flux RSS Infos People</title>
 <desc lang="en">
 </desc>
 </programme>
-<programme start="20210929080000 +0100" stop="20210929083000 +0100" channel="chadatv.ma">
+<programme start="20230301080000 +0100" stop="20230301083000 +0100" channel="chadatv.ma">
 <title lang="fr">TOP 10 : classement clip music  </title>
 <desc lang="ar">
  بيستعرض كل يوم ترتيب عشر أنجح الأغاني المغربية والعربية، المعروضة بمختلف القنوات العربية و آخر الأخبار الفنية والإصدارات الغنائية على الساحة الفنية بالعالم العربي...
 </desc>
 </programme>
-<programme start="20210929171500 +0100" stop="20210929174500 +0100" channel="chadatv.ma">
+<programme start="20230301171500 +0100" stop="20230301174500 +0100" channel="chadatv.ma">
 <title lang="fr">TOP 10 : classement clip music  </title>
 <desc lang="ar">
  بيستعرض كل يوم ترتيب عشر أنجح الأغاني المغربية والعربية، المعروضة بمختلف القنوات العربية و آخر الأخبار الفنية والإصدارات الغنائية على الساحة الفنية بالعالم العربي...
 </desc>
 </programme>
-<programme start="20210929174500 +0100" stop="20210929190000 +0100" channel="chadatv.ma">
+<programme start="20230301174500 +0100" stop="20230301190000 +0100" channel="chadatv.ma">
 <title lang="en">Clips/ Live Chat SMS/ Flux RSS Infos People</title>
 <desc lang="en">
 </desc>
 </programme>
-<programme start="20210929203000 +0100" stop="20210929210000 +0100" channel="chadatv.ma">
-<title lang="fr">TOP 10 : classement clip music  </title>
+<programme start="20230301203000 +0100" stop="20230301213000 +0100" channel="chadatv.ma">
+<title lang="fr">masa'a lkhayr ya maghrib  </title>
 <desc lang="ar">
- بيستعرض كل يوم ترتيب عشر أنجح الأغاني المغربية والعربية، المعروضة بمختلف القنوات العربية و آخر الأخبار الفنية والإصدارات الغنائية على الساحة الفنية بالعالم العربي...
+
 </desc>
 </programme>
-<programme start="20210929210000 +0100" stop="20210929220000 +0100" channel="chadatv.ma">
+<programme start="20230301213000 +0100" stop="20230301220000 +0100" channel="chadatv.ma">
 <title lang="fr">FOLLOWERS   </title>
 <desc lang="ar">
  
 </desc>
 </programme>
-<programme start="20210929224500 +0100" stop="20210929234500 +0100" channel="chadatv.ma">
+<programme start="20230301224500 +0100" stop="20230301234500 +0100" channel="chadatv.ma">
 <title lang="fr">NTIFI LIVE   </title>
 <desc lang="ar">
  
 </desc>
 </programme>
-<programme start="20210929234500 +0100" stop="20210930011500 +0100" channel="chadatv.ma">
+<programme start="20230301234500 +0100" stop="20230302011500 +0100" channel="chadatv.ma">
  <title lang="fr">The Kotbi tonight : music culture divertissement </title>
 <desc lang="ar"> </desc>
 </programme>
@@ -523,57 +529,58 @@
  
                                           
 
-<programme start="20210930011500 +0100" stop="20210930024500 +0100" channel="chadatv.ma">
+<programme start="20230302011500 +0100" stop="20230302024500 +0100" channel="chadatv.ma">
 <title lang="fr">masaa al khayr ya maghrib-مساء الخير يا مغرب  </title>
 <desc lang="ar">
- بيستعرض كل يوم ترتيب عشر أنجح الأغاني المغربية والعربية، المعروضة بمختلف القنوات العربية و آخر الأخبار الفنية والإصدارات الغنائية على الساحة الفنية بالعالم العربي...
+ 
+
 </desc>
 </programme>
-<programme start="20210930024500 +0100" stop="20210930043000 +0100" channel="chadatv.ma">
+<programme start="20230302024500 +0100" stop="20230302043000 +0100" channel="chadatv.ma">
 <title lang="fr">FOLLOWERS </title>
 <desc lang="ar">
  يستضيف عماد قطبي نجمين او ثلاث نجوم، فنانون، كوميديون، كتاب،مطربون، إعلاميون و رياضيون .عماد يفتتح السهرة بمونولوك، حيث يظهر بشكل كوميدي في تقديم  أخبار ومستجدات الأسبوع.
 </desc>
 </programme>
-<programme start="20210930043000 +0100" stop="20210930060000 +0100" channel="chadatv.ma">
+<programme start="20230302043000 +0100" stop="20230302060000 +0100" channel="chadatv.ma">
 <title lang="en">BEST OF CHADA MUSIC PROGRAMMES</title>
 <desc lang="en">
 </desc>
 </programme>
-<programme start="20210930060000 +0100" stop="20210930080000 +0100" channel="chadatv.ma">
+<programme start="20230302060000 +0100" stop="20230302080000 +0100" channel="chadatv.ma">
 <title lang="en">Clips/ Live Chat SMS/ Flux RSS Infos People</title>
 <desc lang="en">
 </desc>
 </programme>
-<programme start="20210930080000 +0100" stop="20210930083000 +0100" channel="chadatv.ma">
+<programme start="20230302080000 +0100" stop="20230302083000 +0100" channel="chadatv.ma">
 <title lang="fr">TOP 10 : classement clip music  </title>
 <desc lang="ar">
  بيستعرض كل يوم ترتيب عشر أنجح الأغاني المغربية والعربية، المعروضة بمختلف القنوات العربية و آخر الأخبار الفنية والإصدارات الغنائية على الساحة الفنية بالعالم العربي...
 </desc>
 </programme>
-<programme start="20210930171500 +0100" stop="20210930174500 +0100" channel="chadatv.ma">
+<programme start="20230302171500 +0100" stop="20230302174500 +0100" channel="chadatv.ma">
 <title lang="fr">TOP 10 : classement clip music  </title>
 <desc lang="ar">
  بيستعرض كل يوم ترتيب عشر أنجح الأغاني المغربية والعربية، المعروضة بمختلف القنوات العربية و آخر الأخبار الفنية والإصدارات الغنائية على الساحة الفنية بالعالم العربي...
 </desc>
 </programme>
-<programme start="20210930174500 +0100" stop="20210930190000 +0100" channel="chadatv.ma">
+<programme start="20230302174500 +0100" stop="20230302190000 +0100" channel="chadatv.ma">
 <title lang="en">Clips/ Live Chat SMS/ Flux RSS Infos People</title>
 <desc lang="en">
 </desc>
 </programme>
-<programme start="20210930200000 +0100" stop="20210930211500 +0100" channel="chadatv.ma">
+<programme start="20230302200000 +0100" stop="20230302211500 +0100" channel="chadatv.ma">
 <title lang="fr">NTIFI LIVE  </title>
 <desc lang="ar">
  بيستعرض كل يوم ترتيب عشر أنجح الأغاني المغربية والعربية، المعروضة بمختلف القنوات العربية و آخر الأخبار الفنية والإصدارات الغنائية على الساحة الفنية بالعالم العربي...
 </desc>
 </programme>
-<programme start="20210930211500 +0100" stop="20210930223000 +0100" channel="chadatv.ma">
+<programme start="20230302211500 +0100" stop="20230302223000 +0100" channel="chadatv.ma">
 <title lang="en">TALK BI LMAGHRIBI - Avec Rachid El IDRISSI</title>
 <desc lang="en">
 </desc>
 </programme>
-<programme start="20210930230000 +0100" stop="20211001000000 +0100" channel="chadatv.ma">
+<programme start="20230302230000 +0100" stop="20230303000000 +0100" channel="chadatv.ma">
 <title lang="fr">FOLLOWERS   </title>
 <desc lang="ar">
  
@@ -586,75 +593,75 @@
 
 
                                         
-<programme start="20211001004500 +0100" stop="20211001011500 +0100" channel="chadatv.ma">
+<programme start="20230303004500 +0100" stop="20230303011500 +0100" channel="chadatv.ma">
 <title lang="fr">CHADA Cover  </title>
 <desc lang="ar">
  
 </desc>
 </programme>
-<programme start="20211001011500 +0100" stop="20211001023000 +0100" channel="chadatv.ma">
+<programme start="20230303011500 +0100" stop="20230303023000 +0100" channel="chadatv.ma">
 <title lang="fr">TALK BI LMAGHRIBI - Avec Rachid El IDRISSI   </title>
 <desc lang="ar">
  
 </desc>
 </programme>
-<programme start="20211001023000 +0100" stop="20211001040000 +0100" channel="chadatv.ma">
+<programme start="20230303023000 +0100" stop="20230303040000 +0100" channel="chadatv.ma">
 <title lang="fr">FOLLOWERS   </title>
 <desc lang="ar">
  
 </desc>
 </programme>
-<programme start="20211001043000 +0100" stop="20211001060000 +0100" channel="chadatv.ma">
+<programme start="20230303043000 +0100" stop="20230303060000 +0100" channel="chadatv.ma">
 <title lang="en">BEST OF CHADA MUSIC PROGRAMMES</title>
 <desc lang="en">
 </desc>
 </programme>
-<programme start="20211001060000 +0100" stop="20211001080000 +0100" channel="chadatv.ma">
+<programme start="20230303060000 +0100" stop="20230303080000 +0100" channel="chadatv.ma">
 <title lang="en">Clips/ Live Chat SMS/ Flux RSS Infos People</title>
 <desc lang="en">
 </desc>
 </programme>
-<programme start="20211001080000 +0100" stop="20211001083000 +0100" channel="chadatv.ma">
+<programme start="20230303080000 +0100" stop="20230303083000 +0100" channel="chadatv.ma">
 <title lang="fr">TOP 10 : classement clip music  </title>
 <desc lang="ar">
  بيستعرض كل يوم ترتيب عشر أنجح الأغاني المغربية والعربية، المعروضة بمختلف القنوات العربية و آخر الأخبار الفنية والإصدارات الغنائية على الساحة الفنية بالعالم العربي...
 </desc>
 </programme>
-<programme start="20211001120000 +0100" stop="20211001130000 +0100" channel="chadatv.ma">
+<programme start="20230303120000 +0100" stop="20230303130000 +0100" channel="chadatv.ma">
 <title lang="en">TALK BI LMAGHRIBI</title>
 <sub-title lang="en">Avec Rachid El IDRISSI</sub-title>
 <desc lang="en">
 </desc>
 </programme>
-<programme start="20211001130000 +0100" stop="20211001160000 +0100" channel="chadatv.ma">
+<programme start="20230303130000 +0100" stop="20230303160000 +0100" channel="chadatv.ma">
 <title lang="en">Clips/ Live Chat SMS/ Flux RSS Infos People</title>
 <desc lang="en">
 </desc>
 </programme>
-<programme start="20211001171500 +0100" stop="20211001174500 +0100" channel="chadatv.ma">
+<programme start="20230303171500 +0100" stop="20230303174500 +0100" channel="chadatv.ma">
 <title lang="fr">TOP 10 : classement clip music  </title>
 <desc lang="ar">
  بيستعرض كل يوم ترتيب عشر أنجح الأغاني المغربية والعربية، المعروضة بمختلف القنوات العربية و آخر الأخبار الفنية والإصدارات الغنائية على الساحة الفنية بالعالم العربي...
 </desc>
 </programme>
-<programme start="20211001174500 +0100" stop="20211001190000 +0100" channel="chadatv.ma">
+<programme start="20230303174500 +0100" stop="20230303190000 +0100" channel="chadatv.ma">
 <title lang="en">Clips/ Live Chat SMS/ Flux RSS Infos People</title>
 <desc lang="en">
 </desc>
 </programme>
-<programme start="20211001200000 +0100" stop="20211001210000 +0100" channel="chadatv.ma">
+<programme start="20230303200000 +0100" stop="20230303210000 +0100" channel="chadatv.ma">
 <title lang="fr">masaa al khayr ya maghrib - مساء الخير يا مغرب   </title>
 <desc lang="ar">
  بيستعرض كل يوم ترتيب عشر أنجح الأغاني المغربية والعربية، المعروضة بمختلف القنوات العربية و آخر الأخبار الفنية والإصدارات الغنائية على الساحة الفنية بالعالم العربي...
 </desc>
 </programme>
-<programme start="20211001210000 +0100" stop="20211001223000 +0100" channel="chadatv.ma">
+<programme start="20230303210000 +0100" stop="20230303223000 +0100" channel="chadatv.ma">
 <title lang="fr">Dandana ma'a IMAD : music divertissement </title>
 <desc lang="ar">
  برنامج موسيقي حميمي أسبوعي نستجوب من خلاله الضيوف في جو موسيقي و طربي مباشر من تنشيط النجم التلفزي المغربي عماد النتيفي..
 </desc>
 </programme>
-<programme start="20211001223000 +0100" stop="20210925001500 +0100" channel="chadatv.ma">
+<programme start="20230303223000 +0100" stop="20230225001500 +0100" channel="chadatv.ma">
 <title lang="en">FOLLOWERS</title>
 <sub-title lang="en"></sub-title>
 <desc lang="en">
@@ -669,52 +676,52 @@
 
 
 
-<programme start="20210925000000 +0100" stop="20210925010000 +0100" channel="telemaroc.ma">
+<programme start="20230225000000 +0100" stop="20230225010000 +0100" channel="telemaroc.ma">
 <title lang="en">SERIE - مسلسل</title>
 </programme>                      
-<programme start="20210925010000 +0100" stop="20210925060000 +0100" channel="telemaroc.ma">
+<programme start="20230225010000 +0100" stop="20230225060000 +0100" channel="telemaroc.ma">
 <title lang="en">Documentaire - وثائقي</title>
 </programme>
-<programme start="20210925060000 +0100" stop="20210925070000 +0100" channel="telemaroc.ma">
+<programme start="20230225060000 +0100" stop="20230225070000 +0100" channel="telemaroc.ma">
 <title lang="en">Dar Diafa: Culture </title>
 </programme>
-<programme start="20210925090000 +0100" stop="20210925110000 +0100" channel="telemaroc.ma">
+<programme start="20230225090000 +0100" stop="20230225110000 +0100" channel="telemaroc.ma">
 <title lang="fr">Sbahkom Mabrouk Magazine</title>
 <desc lang="fr">
 البرنامج يناقش أهم مستجدات البحث العلمي في ضوء رؤية 2025...
 </desc>
 </programme>
-<programme start="20210925130000 +0100" stop="20210925133000 +0100" channel="telemaroc.ma">
+<programme start="20230225130000 +0100" stop="20230225133000 +0100" channel="telemaroc.ma">
 <title lang="fr">نشرة الظهيرة-information</title>
 </programme>
-<programme start="20210925132500 +0100" stop="20210925133500 +0100" channel="telemaroc.ma">
+<programme start="20230225132500 +0100" stop="20230225133500 +0100" channel="telemaroc.ma">
 <title lang="fr">Kotob mamnoaa - Culture </title>
 </programme>
-<programme start="20210925140000 +0100" stop="20210925150000 +0100" channel="telemaroc.ma">
+<programme start="20230225140000 +0100" stop="20230225150000 +0100" channel="telemaroc.ma">
 <title lang="fr">Mintaka Mahdoura - Magazine </title>
 </programme>
-<programme start="20210925194500 +0100" stop="20210925200000 +0100" channel="telemaroc.ma">
+<programme start="20230225194500 +0100" stop="20230225200000 +0100" channel="telemaroc.ma">
 <title lang="fr">العالم الآن- Magazine </title>
 </programme>
-<programme start="20210925200000 +0100" stop="20210925203000 +0100" channel="telemaroc.ma">
+<programme start="20230225200000 +0100" stop="20230225203000 +0100" channel="telemaroc.ma">
 <title lang="fr">النشرة المسائية-information</title>
 </programme>
-<programme start="20210925203000 +0100" stop="20210925210000 +0100" channel="telemaroc.ma">
+<programme start="20230225203000 +0100" stop="20230225210000 +0100" channel="telemaroc.ma">
 <title lang="fr">كليسة رياضية-Magazine Sportif</title>
 </programme>
-<programme start="20210925210000 +0100" stop="20210925220000 +0100" channel="telemaroc.ma">
+<programme start="20230225210000 +0100" stop="20230225220000 +0100" channel="telemaroc.ma">
 <title lang="fr">Al Ousbouaa Arriyadi - Magazine Sportif</title>
 </programme>
-<programme start="20210925221000 +0100" stop="20210925224500 +0100" channel="telemaroc.ma">
+<programme start="20230225221000 +0100" stop="20230225224500 +0100" channel="telemaroc.ma">
 <title lang="fr">Hikayat Mina Al Andalouse - Documentaire</title>
 </programme>
-<programme start="20210925224500 +0100" stop="20210925231500 +0100" channel="telemaroc.ma">
+<programme start="20230225224500 +0100" stop="20230225231500 +0100" channel="telemaroc.ma">
 <title lang="fr">Dar Diafa-Culture</title>
 </programme>
-<programme start="20210925231500 +0100" stop="20210925232500 +0100" channel="telemaroc.ma">
+<programme start="20230225231500 +0100" stop="20230225232500 +0100" channel="telemaroc.ma">
 <title lang="fr">Chef La Recette-Magazine</title>
 </programme>
-<programme start="20210925232700 +0100" stop="20210925235900 +0100" channel="telemaroc.ma">
+<programme start="20230225232700 +0100" stop="20230225235900 +0100" channel="telemaroc.ma">
 <title lang="fr">Blfan Magazine</title>
 </programme> 
 
@@ -722,10 +729,10 @@
 
 
                                     
-<programme start="20210926210000 +0100" stop="20210926220000 +0100" channel="telemaroc.ma">
+<programme start="20230226210000 +0100" stop="20230226220000 +0100" channel="telemaroc.ma">
 <title lang="fr">AL 3AIN ATTALITA-Magazine</title>
 </programme>
-<programme start="20210926010000 +0100" stop="20210926020000 +0100" channel="telemaroc.ma">
+<programme start="20230226010000 +0100" stop="20230226020000 +0100" channel="telemaroc.ma">
 <title lang="fr">Solta Rabiaa-Magazine</title>
 </programme>
 
@@ -734,58 +741,58 @@
 
 
 
-<programme start="20210927040000 +0100" stop="20210927060000 +0100" channel="telemaroc.ma">
+<programme start="20230227040000 +0100" stop="20230227060000 +0100" channel="telemaroc.ma">
 <title lang="fr">Sbahkom Mabrouk-Magazine </title>
 </programme>
-<programme start="20210927060000 +0100" stop="20210927063000 +0100" channel="telemaroc.ma">
+<programme start="20230227060000 +0100" stop="20230227063000 +0100" channel="telemaroc.ma">
 <title lang="fr">Coach-Personal trainer </title>
 </programme>                                    
-<programme start="20210927090000 +0100" stop="20210927110000 +0100" channel="telemaroc.ma">
+<programme start="20230227090000 +0100" stop="20230227110000 +0100" channel="telemaroc.ma">
 <title lang="fr">Sbahkom Mabrouk-Magazine </title>
 </programme>
-<programme start="20210927130000 +0100" stop="20210927133000 +0100" channel="telemaroc.ma">
+<programme start="20230227130000 +0100" stop="20230227133000 +0100" channel="telemaroc.ma">
 <title lang="fr">نشرة الظهيرة-information</title>
 </programme>
-<programme start="20210927150000 +0100" stop="20210927160000 +0100" channel="telemaroc.ma">
+<programme start="20230227150000 +0100" stop="20230227160000 +0100" channel="telemaroc.ma">
 <title lang="fr">Mintaka Mahdoura - Magazine </title>
 </programme>
-<programme start="20210927160000 +0100" stop="20210927180000 +0100" channel="telemaroc.ma">
+<programme start="20230227160000 +0100" stop="20230227180000 +0100" channel="telemaroc.ma">
 <title lang="fr">Sbahkom Mabrouk-Magazine </title>
 </programme>
-<programme start="20210927200000 +0100" stop="20210927203000 +0100" channel="telemaroc.ma">
+<programme start="20230227200000 +0100" stop="20230227203000 +0100" channel="telemaroc.ma">
 <title lang="fr">النشرة المسائية-information</title>
 </programme>
 
 
                                       
-<programme start="20210928040000 +0100" stop="20210928060000 +0100" channel="telemaroc.ma">
+<programme start="20230228040000 +0100" stop="20230228060000 +0100" channel="telemaroc.ma">
 <title lang="fr">Sbahkom Mabrouk-Magazine </title>
 </programme>
-<programme start="20210928060000 +0100" stop="20210928063000 +0100" channel="telemaroc.ma">
+<programme start="20230228060000 +0100" stop="20230228063000 +0100" channel="telemaroc.ma">
 <title lang="fr">Coach-Personal trainer </title>
 </programme> 
-<programme start="20210928090000 +0100" stop="20210928110000 +0100" channel="telemaroc.ma">
+<programme start="20230228090000 +0100" stop="20230228110000 +0100" channel="telemaroc.ma">
 <title lang="fr">Sbahkom Mabrouk-Magazine </title>
 </programme>
-<programme start="20210928130000 +0100" stop="20210928133000 +0100" channel="telemaroc.ma">
+<programme start="20230228130000 +0100" stop="20230228133000 +0100" channel="telemaroc.ma">
 <title lang="fr">نشرة الظهيرة-information</title>
 </programme>
-<programme start="20210928160000 +0100" stop="20210928180000 +0100" channel="telemaroc.ma">
+<programme start="20230228160000 +0100" stop="20230228180000 +0100" channel="telemaroc.ma">
 <title lang="fr">Sbahkom Mabrouk Magazine</title>
 <desc lang="fr">
 البرنامج يناقش أهم مستجدات البحث العلمي في ضوء رؤية 2025
 </desc>
 </programme>
-<programme start="20210928180000 +0100" stop="20210928183000 +0100" channel="telemaroc.ma">
+<programme start="20230228180000 +0100" stop="20230228183000 +0100" channel="telemaroc.ma">
 <title lang="fr">TAKAFA BILA HOUDOUD</title>
 </programme>
-<programme start="20210928200000 +0100" stop="20210928203000 +0100" channel="telemaroc.ma">
+<programme start="20230228200000 +0100" stop="20230228203000 +0100" channel="telemaroc.ma">
 <title lang="fr">النشرة المسائية-information</title>
 </programme>
-<programme start="20210928203000 +0100" stop="20210928210000 +0100" channel="telemaroc.ma">
+<programme start="20230228203000 +0100" stop="20230228210000 +0100" channel="telemaroc.ma">
 <title lang="fr">Coach-Entrainement Sportif</title>
 </programme>
-<programme start="20210928210000 +0100" stop="20210928220000 +0100" channel="telemaroc.ma">
+<programme start="20230228210000 +0100" stop="20230228220000 +0100" channel="telemaroc.ma">
 <title lang="fr">Mintaka Mahdoura-Magazine </title>
 </programme>
 
@@ -794,54 +801,54 @@
 
 
 
-<programme start="20210929040000 +0100" stop="20210929060000 +0100" channel="telemaroc.ma">
+<programme start="20230301040000 +0100" stop="20230301060000 +0100" channel="telemaroc.ma">
 <title lang="fr">Sbahkom Mabrouk-Magazine </title>
 </programme>
-<programme start="20210929060000 +0100" stop="20210929063000 +0100" channel="telemaroc.ma">
+<programme start="20230301060000 +0100" stop="20230301063000 +0100" channel="telemaroc.ma">
 <title lang="fr">داخل الاشياء - Documentaire </title>
 </programme>
-<programme start="20210929063000 +0100" stop="20210929070000 +0100" channel="telemaroc.ma">
+<programme start="20230301063000 +0100" stop="20230301070000 +0100" channel="telemaroc.ma">
 <title lang="fr">من كل الآفاق - Documentaire </title>
 </programme>
-<programme start="20210929070000 +0100" stop="20210929073000 +0100" channel="telemaroc.ma">
+<programme start="20230301070000 +0100" stop="20230301073000 +0100" channel="telemaroc.ma">
 <title lang="fr">Coach-Personal trainer </title>
 </programme>                                     
-<programme start="20210929090000 +0100" stop="20210929110000 +0100" channel="telemaroc.ma">
+<programme start="20230301090000 +0100" stop="20230301110000 +0100" channel="telemaroc.ma">
 <title lang="fr">Sbahkom Mabrouk-Magazine </title>
 </programme>
-<programme start="20210929130000 +0100" stop="20210929133000 +0100" channel="telemaroc.ma">
+<programme start="20230301130000 +0100" stop="20230301133000 +0100" channel="telemaroc.ma">
 <title lang="fr">نشرة الظهيرة-information</title>
 </programme>
-<programme start="20210929200000 +0100" stop="20210929203000 +0100" channel="telemaroc.ma">
+<programme start="20230301200000 +0100" stop="20230301203000 +0100" channel="telemaroc.ma">
 <title lang="fr">النشرة المسائية-information</title>
 </programme>
-<programme start="20210929210000 +0100" stop="20210929220000 +0100" channel="telemaroc.ma">
+<programme start="20230301210000 +0100" stop="20230301220000 +0100" channel="telemaroc.ma">
 <title lang="fr">Maghreb Alkhayr-Magazine </title>
 </programme>
-<programme start="20210929235000 +0100" stop="20210930002000 +0100" channel="telemaroc.ma">
+<programme start="20230301235000 +0100" stop="20230302002000 +0100" channel="telemaroc.ma">
 <title lang="fr">وحيد في الطبيعة - Documentaire </title>
 </programme>
  
 
-<programme start="20210930040000 +0100" stop="20210930060000 +0100" channel="telemaroc.ma">
+<programme start="20230302040000 +0100" stop="20230302060000 +0100" channel="telemaroc.ma">
 <title lang="fr">Sbahkom Mabrouk-Magazine </title>
 </programme>
-<programme start="20210930060000 +0100" stop="20210930063000 +0100" channel="telemaroc.ma">
+<programme start="20230302060000 +0100" stop="20230302063000 +0100" channel="telemaroc.ma">
 <title lang="fr">Coach-Personal trainer </title>
 </programme>                                      
-<programme start="20210930090000 +0100" stop="20210930110000 +0100" channel="telemaroc.ma">
+<programme start="20230302090000 +0100" stop="20230302110000 +0100" channel="telemaroc.ma">
 <title lang="fr">Sbahkom Mabrouk-Magazine </title>
 </programme>
-<programme start="20210930130000 +0100" stop="20210930133000 +0100" channel="telemaroc.ma">
+<programme start="20230302130000 +0100" stop="20230302133000 +0100" channel="telemaroc.ma">
 <title lang="fr">نشرة الظهيرة-information</title>
 </programme>
-<programme start="20210930200000 +0100" stop="20210930203000 +0100" channel="telemaroc.ma">
+<programme start="20230302200000 +0100" stop="20230302203000 +0100" channel="telemaroc.ma">
 <title lang="fr">النشرة المسائية-information</title>
 </programme>
-<programme start="20210930203000 +0100" stop="20210930210000 +0100" channel="telemaroc.ma">
+<programme start="20230302203000 +0100" stop="20230302210000 +0100" channel="telemaroc.ma">
 <title lang="fr">كليسة رياضية-Magazine Sportif</title>
 </programme>
-<programme start="20210930210000 +0100" stop="20210930220000 +0100" channel="telemaroc.ma">
+<programme start="20230302210000 +0100" stop="20230302220000 +0100" channel="telemaroc.ma">
 <title lang="fr">مغرب الخير-Magazine </title>
 </programme>
 
@@ -850,30 +857,45 @@
  
  
  
-<programme start="20211001000500 +0100" stop="20211001003500 +0100" channel="telemaroc.ma">
+<programme start="20230303000500 +0100" stop="20230303003500 +0100" channel="telemaroc.ma">
 <title lang="fr"> كليسة رياضية - Magazine Sportif</title>
 </programme>                                
-<programme start="20211001090000 +0100" stop="20211001110000 +0100" channel="telemaroc.ma">
+<programme start="20230303090000 +0100" stop="20230303110000 +0100" channel="telemaroc.ma">
 <title lang="fr">Sbahkom Mabrouk-Magazine </title>
 </programme>
-<programme start="20211001120000 +0100" stop="20211001123000 +0100" channel="telemaroc.ma">
+<programme start="20230303120000 +0100" stop="20230303123000 +0100" channel="telemaroc.ma">
 <title lang="fr">نشرة الظهيرة - Information </title>
 </programme>
-<programme start="20211001133000 +0100" stop="20211001140000 +0100" channel="telemaroc.ma">
+<programme start="20230303133000 +0100" stop="20230303140000 +0100" channel="telemaroc.ma">
 <title lang="fr">كليسة رياضية - Magazine Sportif</title>
 </programme>
-<programme start="20211001183000 +0100" stop="20211001185000 +0100" channel="telemaroc.ma">
+<programme start="20230303183000 +0100" stop="20230303185000 +0100" channel="telemaroc.ma">
 <title lang="fr">من والو-Magazine </title>
 </programme>
-<programme start="20211001200000 +0100" stop="20211001203000 +0100" channel="telemaroc.ma">
+<programme start="20230303200000 +0100" stop="20230303203000 +0100" channel="telemaroc.ma">
 <title lang="fr">النشرة المسائية - information </title>
 </programme>
-<programme start="20211001203000 +0100" stop="20211001210000 +0100" channel="telemaroc.ma">
+<programme start="20230303203000 +0100" stop="20230303210000 +0100" channel="telemaroc.ma">
 <title lang="fr">كليسة رياضية - Magazine Sportif</title>
 </programme>
-<programme start="20211001210000 +0100" stop="20211001212000 +0100" channel="telemaroc.ma">
+<programme start="20230303210000 +0100" stop="20230303212000 +0100" channel="telemaroc.ma">
 <title lang="fr">من والو-Magazine </title>
 </programme>
+
+
+
+
+
+<programme start="20230225001500 +0100" stop="20230229011500 +0100" channel="medi1tvm.ma">
+<title lang="en">MEDI1 AKHBAR</title>
+<sub-title lang="en"></sub-title>
+<desc lang="en">
+</desc>
+</programme> 
+
+
+
+
 
 </tv>
 
